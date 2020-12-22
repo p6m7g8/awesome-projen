@@ -7,6 +7,7 @@ const project = new NodeProject({
   gitpod: true,
   releaseBranches: ['main'],
   readme: 'readme.md',
+  releaseEveryCommit: false,
 
   deps: [
     'awesome-lint'
