@@ -3,7 +3,6 @@ const { NodeProject } = require('projen');
 const project = new NodeProject({
   name: 'awesome-projen',
 
-  antitamper: false,
   gitpod: true,
   releaseBranches: ['main'],
   readme: 'readme.md',
