@@ -48,6 +48,7 @@ Define and maintain complex project configuration through code.
 - [cdk8s-redis](https://github.com/eladb/cdk8s-redis) - Redis constructs for cdk8s.
 - [markmac](https://github.com/eladb/markmac) - Markdown macros - embed program outputs in markdown.
 - [eks-cdk8s-refarch](https://github.com/pahud/eks-cdk8s-refarch) - Reference architecture for building load-balanced web services in Amazon EKS with AWS CDK and CDK8S.
+- [cdk-efs-assets](https://github.com/pahud/cdk-efs-assets) - CDK construct library to populate Amazon EFS assets from Github or S3.
 
 ## Related Projects
 
