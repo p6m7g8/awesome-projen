@@ -121,8 +121,7 @@ project.gitpod.addTasks({
 });
 
 const awesomeLintTask = project.addTask("awesome-lint");
-awesomeLintTask.exec('awesome-lint');
-
-project.buildTask.spawn(awesomeLintTask)
+awesomeLintTask.exec('npx awesome-lint');
+// project.buildTask.spawn(awesomeLintTask)
 
 project.synth();

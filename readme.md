@@ -5,11 +5,13 @@
 Define and maintain complex project configuration through code.
 
 ## Contents
- - [Training Materials and Sample Code](#training-materials-and-sample-code)
- - [Blog Posts & Talks](#blog-posts--talks)
- - [Related Projects](#related-projects)
- - [Tips & Tricks](#tips--tricks)
- - [Contributing](#contributing)
+
+- [Training Materials and Sample Code](#training-materials-and-sample-code)
+- [Blog Posts & Talks](#blog-posts--talks)
+- [External Project Types](#external-project-types)
+- [Projects using Projen](#projects-using-projen)
+- [Related Projects](#related-projects)
+- [Tips & Tricks](#tips--tricks)
 
 ## Training Materials and Sample Code
 
@@ -42,9 +44,9 @@ Define and maintain complex project configuration through code.
 - [cdk8s-dashboard](https://github.com/eladb/cdk8s-dashboard) - Kubernetes dashboard construct library for cdk8s.
 - [cdk8s-image](https://github.com/eladb/cdk8s-image) - An Image construct which takes care of building & pushing docker images that can be used in CDK8s apps.
 - [cdk8s-operator](https://github.com/eladb/cdk8s-operator) - Create Kubernetes CRD Operators using CDK8s Constructs.
-- [cdk8s-pack-prototype](https://github.com/eladb/cdk8s-pack-prototype) - Create Kubernetes CRD Operators using CDK8s Constructs
-- [cdk8s-redis](https://github.com/eladb/cdk8s-redis) - Redis constructs for cdk8s
-- [markmac](https://github.com/eladb/markmac) - Markdown macros - embed program outputs in markdown
+- [cdk8s-pack-prototype](https://github.com/eladb/cdk8s-pack-prototype) - Create Kubernetes CRD Operators using CDK8s Constructs.
+- [cdk8s-redis](https://github.com/eladb/cdk8s-redis) - Redis constructs for cdk8s.
+- [markmac](https://github.com/eladb/markmac) - Markdown macros - embed program outputs in markdown.
 - [eks-cdk8s-refarch](https://github.com/pahud/eks-cdk8s-refarch) - Reference architecture for building load-balanced web services in Amazon EKS with AWS CDK and CDK8S.
 
 ## Related Projects

@@ -52,12 +52,7 @@
     "build": {
       "name": "build",
       "category": "00.build",
-      "description": "Full release build (test+compile)",
-      "steps": [
-        {
-          "spawn": "awesome-lint"
-        }
-      ]
+      "description": "Full release build (test+compile)"
     },
     "bump": {
       "name": "bump",
@@ -121,7 +116,7 @@
       "name": "awesome-lint",
       "steps": [
         {
-          "exec": "awesome-lint"
+          "exec": "npx awesome-lint"
         }
       ]
     }
