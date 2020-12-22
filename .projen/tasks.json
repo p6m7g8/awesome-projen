@@ -44,7 +44,7 @@
       "description": "Run tests",
       "steps": [
         {
-          "exec": "jest --passWithNoTests --all"
+          "exec": "jest --passWithNoTests --all --updateSnapshot"
         }
       ]
     },
