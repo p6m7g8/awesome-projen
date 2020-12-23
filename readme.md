@@ -8,6 +8,7 @@ Define and maintain complex project configuration through code.
 
 - [Training Materials and Sample Code](#training-materials-and-sample-code)
 - [Blog Posts & Talks](#blog-posts--talks)
+- [Social Media](#social-media)
 - [External Project Types](#external-project-types)
 - [Projects using Projen](#projects-using-projen)
   - [Official](#official)
@@ -27,6 +28,10 @@ Define and maintain complex project configuration through code.
 ## Blog Posts & Talks
 
 - Elad Ben-Israel's CDK Day 2020 [Talk](https://www.youtube.com/watch?v=SOWMPzXtTCw&feature=youtu.be).
+
+## Social Media
+
+- [#projen](https://twitter.com/hashtag/projen?lang=en) - #projen hash tag on Twitter
 
 ## External Project Types
 
@@ -139,12 +144,9 @@ Define and maintain complex project configuration through code.
 - [pgarbe/cdk-stackset](https://github.com/pgarbe/cdk-stackset/.projenrc.js) - desc
 - [pszabop/cdk-vpc-export-import-test](https://github.com/pszabop/cdk-vpc-export-import-test/.projenrc.js) - desc
 - [rogerchi/vns-pdf-gen](https://github.com/rogerchi/vns-pdf-gen/.projenrc.js) - desc
-- [stefanfreitag/csv-to-heartbeat-yml/cdk](https://github.com/stefanfreitag/csv-to-heartbeat-yml/cdk/.projenrc.js) - desc
-- [stefanfreitag/helloWorldLambda](https://github.com/stefanfreitag/helloWorldLambda/.projenrc.js) - desc
-- [tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-go](https://github.com/tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-go/.projenrc.js) - desc
-- [tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-gov2](https://github.com/tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-gov2/.projenrc.js) - desc
-- [tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-python](https://github.com/tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-python/.projenrc.js) - desc
-- [titanjer/cdk-lambda-edge](https://github.com/titanjer/cdk-lambda-edge/.projenrc.js) - desc
+- [stefanfreitag/csv-to-heartbeat-yml/cdk](https://github.com/stefanfreitag/csv-to-heartbeat-yml/cdk/.projenrc.js) - Converts CSV data to heartbeat yml files.
+- [stefanfreitag/helloWorldLambda](https://github.com/stefanfreitag/helloWorldLambda/.projenrc.js) - Hello World application using an AWS API Gateway and Lambda function.
+- [titanjer/cdk-lambda-edge](https://github.com/titanjer/cdk-lambda-edge/.projenrc.js) - lambda@edge to validate app version in request user-agent.
 
 #### AwsCdkConstructLibrary
 
