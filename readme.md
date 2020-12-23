@@ -5,17 +5,20 @@
 Define and maintain complex project configuration through code.
 
 ## Contents
+
 - [Training Materials and Sample Code](#training-materials-and-sample-code)
 - [Blog Posts & Talks](#blog-posts--talks)
 - [External Project Types](#external-project-types)
 - [Projects using Projen](#projects-using-projen)
-  - [NodeProject](#nodeproject)
-  - [JsiiProject](#jsiiproject)
-  - [TypeScriptProject](#typescriptproject)
-  - [TypeScriptLibraryProject](#typescriptlibraryproject)
-  - [AwsCdkTypeScriptApp](#awscdktypescriptapp)
-  - [AwsCdkConstructLibrary](#awscdkconstructlibrary)
-  - [CdktfProviderProject](#cdktfproviderproject)
+  - [Official](#official)
+  - [Community](#community)
+    - [NodeProject](#nodeproject)
+    - [JsiiProject](#jsiiproject)
+    - [TypeScriptProject](#typescriptproject)
+    - [TypeScriptLibraryProject](#typescriptlibraryproject)
+    - [AwsCdkTypeScriptApp](#awscdktypescriptapp)
+    - [AwsCdkConstructLibrary](#awscdkconstructlibrary)
+    - [CdktfProviderProject](#cdktfproviderproject)
 
 ## Training Materials and Sample Code
 
@@ -31,17 +34,30 @@ Define and maintain complex project configuration through code.
 
 ## Projects using Projen
 
-### NodeProject
+### Official
 
-- [aws/jsii](https://github.com/aws/jsii-release/.projenrc.js) - desc.
-- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/.projenrc.js)[p6m7g8/awesome-projen) - desc
-
-### JsiiProject
-
-- [ArmaanT/cdkactions/packages/cdkactions](https://github.com/ArmaanT/cdkactions/packages/cdkactions/.projenrc.js) - desc
-- [aws/constructs](https://github.com/aws/constructs/.projenrc.js) - desc
-- [awslabs/cdk8s/packages/cdk8s-plus-17](https://github.com/awslabs/cdk8s/packages/cdk8s-plus-17/.projenrc.js) - desc
+- [aws/constructs](https://github.com/aws/constructs/.projenrc.js) - A programming model for composable configuration.
+- [aws/jsii-docgen](https://github.com/aws/jsii-docgen/.projenrc.js) - desc
+- [aws/jsii-release](https://github.com/aws/jsii-release/.projenrc.js) - Release jsii modules to multiple package managers.
+- [aws/jsii-srcmak](https://github.com/aws/jsii-srcmak/.projenrc.js) - desc
+- [aws/json2jsii](https://github.com/aws/json2jsii/.projenrc.js) - desc
+- [awslabs/cdk8s/packages/cdk8s-plus-17](https://github.com/awslabs/cdk8s/packages/cdk8s-plus-17/.projenrc.js) - High level abstractions on top of cdk8s.
+- [awslabs/cdk8s/packages/cdk8s-cli](https://github.com/awslabs/cdk8s/packages/cdk8s-cli/.projenrc.js) - desc
 - [awslabs/cdk8s/packages/cdk8s](https://github.com/awslabs/cdk8s/packages/cdk8s/.projenrc.js) - desc
+- [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster/.projenrc.js) - desc
+- [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler/.projenrc.js) - desc
+- [aws-samples/cdk-serverless-lamp](https://github.com/aws-samples/cdk-serverless-lamp/.projenrc.js) - desc
+- [cdk-dev/link-scraper](https://github.com/cdk-dev/link-scraper/.projenrc.js) - desc
+- [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/packages/catalog-search/.projenrc.js) - desc
+- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/.projenrc.js) - This awesome list.
+
+### Community
+
+#### NodeProject
+
+#### JsiiProject
+
+- [ArmaanT/cdkactions/packages/cdkactions](https://github.com/ArmaanT/cdkactions/packages/cdkactions/.projenrc.js) - Cloud Development Kit for GitHub Actions.
 - [eladb/cdk8s-dashboard](https://github.com/eladb/cdk8s-dashboard/.projenrc.js) - desc
 - [eladb/cdk8s-operator](https://github.com/eladb/cdk8s-operator/.projenrc.js) - desc
 - [eladb/cdk8s-redis](https://github.com/eladb/cdk8s-redis/.projenrc.js) - desc
@@ -61,10 +77,8 @@ Define and maintain complex project configuration through code.
 - [taimos/taimos-projen](https://github.com/taimos/taimos-projen/.projenrc.js) - desc
 - [toricls/cdk8s-debore](https://github.com/toricls/cdk8s-debore/.projenrc.js) - desc
 
-### TypeScriptProject
+#### TypeScriptProject
 
-- [aws/jsii-srcmak](https://github.com/aws/jsii-srcmak/.projenrc.js) - desc
-- [cdk-dev/link-scraper](https://github.com/cdk-dev/link-scraper/.projenrc.js) - desc
 - [eladb/cdk8s-pack-prototype](https://github.com/eladb/cdk8s-pack-prototype/.projenrc.js) - desc
 - [eladb/cfn-resources](https://github.com/eladb/cfn-resources/.projenrc.js) - desc
 - [eladb/markmac](https://github.com/eladb/markmac/.projenrc.js) - desc
@@ -77,15 +91,11 @@ Define and maintain complex project configuration through code.
 - [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/.projenrc.js) - desc
 - [wheatstalk/ecs-service-extension-listener-rules](https://github.com/wheatstalk/ecs-service-extension-listener-rules/.projenrc.js) - desc
 
-### TypeScriptLibraryProject
+#### TypeScriptLibraryProject
 
 - [ArmaanT/cdkactions/packages/cdkactions-cli](https://github.com/ArmaanT/cdkactions/packages/cdkactions-cli/.projenrc.js) - desc
-- [aws/jsii-docgen](https://github.com/aws/jsii-docgen/.projenrc.js) - desc
-- [aws/json2jsii](https://github.com/aws/json2jsii/.projenrc.js) - desc
-- [awslabs/cdk8s/packages/cdk8s-cli](https://github.com/awslabs/cdk8s/packages/cdk8s-cli/.projenrc.js) - desc
-- [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/packages/catalog-search/.projenrc.js) - desc
 
-### AwsCdkTypeScriptApp
+#### AwsCdkTypeScriptApp
 
 - [OperationalFallacy/max-lambda-out](https://github.com/OperationalFallacy/max-lambda-out/.projenrc.js) - desc
 - [aws-samples/amazon-eks-refarch-cloudformation](https://github.com/aws-samples/amazon-eks-refarch-cloudformation/.projenrc.js) - desc
@@ -141,7 +151,7 @@ Define and maintain complex project configuration through code.
 - [tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-python](https://github.com/tecracer/tRick-benchmarks/serverless-standard/cdk-lambda-python/.projenrc.js) - desc
 - [titanjer/cdk-lambda-edge](https://github.com/titanjer/cdk-lambda-edge/.projenrc.js) - desc
 
-### AwsCdkConstructLibrary
+#### AwsCdkConstructLibrary
 
 - [EdwinRad/cdkfoldingathome](https://github.com/EdwinRad/cdkfoldingathome/.projenrc.js) - desc
 - [JordanSinko/the-autoscaling-kinesis-stream](https://github.com/JordanSinko/the-autoscaling-kinesis-stream/.projenrc.js) - desc
@@ -151,9 +161,6 @@ Define and maintain complex project configuration through code.
 - [NomadBlacky/hello-cdk-lib](https://github.com/NomadBlacky/hello-cdk-lib/.projenrc.js) - desc
 - [SnapPetal/cdk-cloudfront-deploy](https://github.com/SnapPetal/cdk-cloudfront-deploy/.projenrc.js) - desc
 - [StErMi/cdk-website](https://github.com/StErMi/cdk-website/.projenrc.js) - desc
-- [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster/.projenrc.js) - desc
-- [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler/.projenrc.js) - desc
-- [aws-samples/cdk-serverless-lamp](https://github.com/aws-samples/cdk-serverless-lamp/.projenrc.js) - desc
 - [bgreengo/cdk-noob](https://github.com/bgreengo/cdk-noob/.projenrc.js) - desc
 - [cerealcoder/aws-cdk-serverless-timer](https://github.com/cerealcoder/aws-cdk-serverless-timer/.projenrc.js) - desc
 - [clarencetw/cdk-sns-notify](https://github.com/clarencetw/cdk-sns-notify/.projenrc.js) - desc
@@ -214,7 +221,7 @@ Define and maintain complex project configuration through code.
 - [stefanfreitag/gradle_uploader](https://github.com/stefanfreitag/gradle_uploader/.projenrc.js) - desc
 - [wheatstalk/cdk-ecs-website](https://github.com/wheatstalk/cdk-ecs-website/.projenrc.js) - desc
 
-### CdktfProviderProject
+#### CdktfProviderProject
 
 - [skorfmann/cdktf-provider-aws](https://github.com/skorfmann/cdktf-provider-aws/.projenrc.js) - desc
 - [terraform-cdk-providers/cdktf-provider-aws](https://github.com/terraform-cdk-providers/cdktf-provider-aws/.projenrc.js) - desc
