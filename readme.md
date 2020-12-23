@@ -1,6 +1,6 @@
-# Awesome Projen [![Awesome)[https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Projen [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of awesome [Projen)[https://github.com/projen/projen) open-source projects, guides, blogs and other resources.
+> Curated list of awesome [Projen](https://github.com/projen/projen) open-source projects, guides, blogs and other resources.
 
 Define and maintain complex project configuration through code.
 
