@@ -31,6 +31,7 @@ Define and maintain complex project configuration through code.
 ## External Project Types
 
 - [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-transformer) - Projen for AppSync
+- [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/.projenrc.js) - Projen for Terraform
 
 ## Projects using Projen
 
@@ -67,7 +68,6 @@ Define and maintain complex project configuration through code.
 - [iliapolo/aws-cdk-sdk](https://github.com/iliapolo/aws-cdk-sdk/.projenrc.js) - desc
 - [iliapolo/constructs-tokens-staging](https://github.com/iliapolo/constructs-tokens-staging/.projenrc.js) - desc
 - [iliapolo/stdk8s](https://github.com/iliapolo/stdk8s/.projenrc.js) - desc
-- [jogold/cdk-ecr-image-scan-handler](https://github.com/jogold/cdk-ecr-image-scan-handler/.projenrc.js) - desc
 - [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-project/.projenrc.js) - desc
 - [mmuller88/alps-unified-ts](https://github.com/mmuller88/alps-unified-ts/.projenrc.js) - desc
 - [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/.projenrc.js) - desc
@@ -88,7 +88,6 @@ Define and maintain complex project configuration through code.
 - [mmuller88/alf-cdk](https://github.com/mmuller88/alf-cdk/.projenrc.js) - desc
 - [mmuller88/alfresco-ocr](https://github.com/mmuller88/alfresco-ocr/.projenrc.js) - desc
 - [skorfmann/cfn2tf](https://github.com/skorfmann/cfn2tf/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/.projenrc.js) - desc
 - [wheatstalk/ecs-service-extension-listener-rules](https://github.com/wheatstalk/ecs-service-extension-listener-rules/.projenrc.js) - desc
 
 #### TypeScriptLibraryProject
@@ -223,7 +222,6 @@ Define and maintain complex project configuration through code.
 
 #### CdktfProviderProject
 
-- [skorfmann/cdktf-provider-aws](https://github.com/skorfmann/cdktf-provider-aws/.projenrc.js) - desc
 - [terraform-cdk-providers/cdktf-provider-aws](https://github.com/terraform-cdk-providers/cdktf-provider-aws/.projenrc.js) - desc
 - [terraform-cdk-providers/cdktf-provider-azurerm](https://github.com/terraform-cdk-providers/cdktf-provider-azurerm/.projenrc.js) - desc
 - [terraform-cdk-providers/cdktf-provider-docker](https://github.com/terraform-cdk-providers/cdktf-provider-docker/.projenrc.js) - desc
