@@ -38,18 +38,18 @@ Define and maintain complex project configuration through code.
 ### Official
 
 - [aws/constructs](https://github.com/aws/constructs/.projenrc.js) - A programming model for composable configuration.
-- [aws/jsii-docgen](https://github.com/aws/jsii-docgen/.projenrc.js) - desc
+- [aws/jsii-docgen](https://github.com/aws/jsii-docgen/.projenrc.js) - Generates api docs for jsii modules.
 - [aws/jsii-release](https://github.com/aws/jsii-release/.projenrc.js) - Release jsii modules to multiple package managers.
-- [aws/jsii-srcmak](https://github.com/aws/jsii-srcmak/.projenrc.js) - desc
-- [aws/json2jsii](https://github.com/aws/json2jsii/.projenrc.js) - desc
+- [aws/jsii-srcmak](https://github.com/aws/jsii-srcmak/.projenrc.js) - Generate source code in multiple languages from typescript.
+- [aws/json2jsii](https://github.com/aws/json2jsii/.projenrc.js) - Generates jsii structs from JSON schemas.
 - [awslabs/cdk8s/packages/cdk8s-plus-17](https://github.com/awslabs/cdk8s/packages/cdk8s-plus-17/.projenrc.js) - High level abstractions on top of cdk8s.
-- [awslabs/cdk8s/packages/cdk8s-cli](https://github.com/awslabs/cdk8s/packages/cdk8s-cli/.projenrc.js) - desc
-- [awslabs/cdk8s/packages/cdk8s](https://github.com/awslabs/cdk8s/packages/cdk8s/.projenrc.js) - desc
-- [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster/.projenrc.js) - desc
-- [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler/.projenrc.js) - desc
-- [aws-samples/cdk-serverless-lamp](https://github.com/aws-samples/cdk-serverless-lamp/.projenrc.js) - desc
-- [cdk-dev/link-scraper](https://github.com/cdk-dev/link-scraper/.projenrc.js) - desc
-- [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/packages/catalog-search/.projenrc.js) - desc
+- [awslabs/cdk8s/packages/cdk8s-cli](https://github.com/awslabs/cdk8s/packages/cdk8s-cli/.projenrc.js) - CLI for CDK8s.
+- [awslabs/cdk8s/packages/cdk8s](https://github.com/awslabs/cdk8s/packages/cdk8s/.projenrc.js) - Cloud Development Kit for Kubernetes.
+- [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster/.projenrc.js) - A JSII construct lib to deploy a K3s cluster on AWS with CDK.
+- [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler/.projenrc.js) - A JSII construct lib to build AWS Fargate Fast Autoscaler.
+- [aws-samples/cdk-serverless-lamp](https://github.com/aws-samples/cdk-serverless-lamp/.projenrc.js) - A JSII construct lib to build AWS Serverless LAMP with AWS CDK.
+- [cdk-dev/link-scraper](https://github.com/cdk-dev/link-scraper/.projenrc.js) - Scrapes Links from sites used by cdk.dev website.
+- [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/packages/catalog-search/.projenrc.js) - Search application for the construct catalog
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/.projenrc.js) - This awesome list.
 
 ### Community
