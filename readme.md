@@ -76,19 +76,19 @@ Define and maintain complex project configuration through code.
 
 #### TypeScriptProject
 
-- [eladb/cfn-resources](https://github.com/eladb/cfn-resources/.projenrc.js) - desc
-- [eladb/markmac](https://github.com/eladb/markmac/.projenrc.js) - desc
-- [mmuller88/alf-cdk-api-gw](https://github.com/mmuller88/alf-cdk-api-gw/.projenrc.js) - desc
-- [mmuller88/alf-cdk-cognito](https://github.com/mmuller88/alf-cdk-cognito/.projenrc.js) - desc
-- [mmuller88/alf-cdk-ui/cdk](https://github.com/mmuller88/alf-cdk-ui/cdk/.projenrc.js) - desc
-- [mmuller88/alf-cdk](https://github.com/mmuller88/alf-cdk/.projenrc.js) - desc
-- [mmuller88/alfresco-ocr](https://github.com/mmuller88/alfresco-ocr/.projenrc.js) - desc
-- [skorfmann/cfn2tf](https://github.com/skorfmann/cfn2tf/.projenrc.js) - desc
-- [wheatstalk/ecs-service-extension-listener-rules](https://github.com/wheatstalk/ecs-service-extension-listener-rules/.projenrc.js) - desc
+- [eladb/cfn-resources](https://github.com/eladb/cfn-resources/.projenrc.js) - Prints the list of resource types and logical IDs from a CloudFormation template.
+- [eladb/markmac](https://github.com/eladb/markmac/.projenrc.js) - Markdown macros - embed program outputs in markdown.
+- [mmuller88/alf-cdk-api-gw](https://github.com/mmuller88/alf-cdk-api-gw/.projenrc.js) - Alfresco Backend.
+- [mmuller88/alf-cdk-cognito](https://github.com/mmuller88/alf-cdk-cognito/.projenrc.js) - Cognito User Pool for managing users.
+- [mmuller88/alf-cdk-ui/cdk](https://github.com/mmuller88/alf-cdk-ui/cdk/.projenrc.js) - Alfresco Provisioner Frontend.
+- [mmuller88/alf-cdk](https://github.com/mmuller88/alf-cdk/.projenrc.js) - The Alfresco Provisioner.
+- [mmuller88/alfresco-ocr](https://github.com/mmuller88/alfresco-ocr/.projenrc.js) - Alfresco OCR.
+- [skorfmann/cfn2tf](https://github.com/skorfmann/cfn2tf/.projenrc.js) - Converts CloudFormation resources to Terraform resources.
+- [wheatstalk/ecs-service-extension-listener-rules](https://github.com/wheatstalk/ecs-service-extension-listener-rules/.projenrc.js) - Listener Rule Extension.
 
 #### TypeScriptLibraryProject
 
-- [ArmaanT/cdkactions/packages/cdkactions-cli](https://github.com/ArmaanT/cdkactions/packages/cdkactions-cli/.projenrc.js) - desc
+- [ArmaanT/cdkactions/packages/cdkactions-cli](https://github.com/ArmaanT/cdkactions/packages/cdkactions-cli/.projenrc.js) - CDK for GitHub Actions CLI.
 
 #### AwsCdkTypeScriptApp
 
@@ -218,10 +218,10 @@ Define and maintain complex project configuration through code.
 
 #### CdktfProviderProject
 
-- [terraform-cdk-providers/cdktf-provider-aws](https://github.com/terraform-cdk-providers/cdktf-provider-aws/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-azurerm](https://github.com/terraform-cdk-providers/cdktf-provider-azurerm/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-docker](https://github.com/terraform-cdk-providers/cdktf-provider-docker/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-github](https://github.com/terraform-cdk-providers/cdktf-provider-github/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-google](https://github.com/terraform-cdk-providers/cdktf-provider-google/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-kubernetes](https://github.com/terraform-cdk-providers/cdktf-provider-kubernetes/.projenrc.js) - desc
-- [terraform-cdk-providers/cdktf-provider-null](https://github.com/terraform-cdk-providers/cdktf-provider-null/.projenrc.js) - desc
+- [terraform-cdk-providers/cdktf-provider-aws](https://github.com/terraform-cdk-providers/cdktf-provider-aws/.projenrc.js) - CDKTF AWS Provider.
+- [terraform-cdk-providers/cdktf-provider-azurerm](https://github.com/terraform-cdk-providers/cdktf-provider-azurerm/.projenrc.js) - CDKTF Azurerm Provider.
+- [terraform-cdk-providers/cdktf-provider-docker](https://github.com/terraform-cdk-providers/cdktf-provider-docker/.projenrc.js) - CDKTF Docker Provider.
+- [terraform-cdk-providers/cdktf-provider-github](https://github.com/terraform-cdk-providers/cdktf-provider-github/.projenrc.js) - CDKTF GitHub Provider.
+- [terraform-cdk-providers/cdktf-provider-google](https://github.com/terraform-cdk-providers/cdktf-provider-google/.projenrc.js) - CDKTF Google Provider.
+- [terraform-cdk-providers/cdktf-provider-kubernetes](https://github.com/terraform-cdk-providers/cdktf-provider-kubernetes/.projenrc.js) - CDKTF Kubernetes Provider.
+- [terraform-cdk-providers/cdktf-provider-null](https://github.com/terraform-cdk-providers/cdktf-provider-null/.projenrc.js) - CDKTF Null Provider.
