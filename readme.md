@@ -32,6 +32,9 @@ Define and maintain complex project configuration through code.
 
 - [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-transformer) - Projen for AppSync
 - [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/.projenrc.js) - Projen for Terraform
+- [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/.projenrc.js) - desc
+- [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/.projenrc.js) - desc
+- [taimos/taimos-projen](https://github.com/taimos/taimos-projen/.projenrc.js) - desc
 
 ## Projects using Projen
 
@@ -59,27 +62,20 @@ Define and maintain complex project configuration through code.
 #### JsiiProject
 
 - [ArmaanT/cdkactions/packages/cdkactions](https://github.com/ArmaanT/cdkactions/packages/cdkactions/.projenrc.js) - Cloud Development Kit for GitHub Actions.
-- [eladb/cdk8s-dashboard](https://github.com/eladb/cdk8s-dashboard/.projenrc.js) - desc
-- [eladb/cdk8s-operator](https://github.com/eladb/cdk8s-operator/.projenrc.js) - desc
-- [eladb/cdk8s-redis](https://github.com/eladb/cdk8s-redis/.projenrc.js) - desc
-- [eladb/cfunctions](https://github.com/eladb/cfunctions/.projenrc.js) - desc
-- [guillaumemaka/nuxt-projen](https://github.com/guillaumemaka/nuxt-projen/.projenrc.js) - desc
-- [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/.projenrc.js) - desc
-- [iliapolo/aws-cdk-sdk](https://github.com/iliapolo/aws-cdk-sdk/.projenrc.js) - desc
-- [iliapolo/constructs-tokens-staging](https://github.com/iliapolo/constructs-tokens-staging/.projenrc.js) - desc
-- [iliapolo/stdk8s](https://github.com/iliapolo/stdk8s/.projenrc.js) - desc
-- [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-project/.projenrc.js) - desc
-- [mmuller88/alps-unified-ts](https://github.com/mmuller88/alps-unified-ts/.projenrc.js) - desc
-- [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/.projenrc.js) - desc
-- [rayou/cdk-url-shortener](https://github.com/rayou/cdk-url-shortener/.projenrc.js) - desc
-- [skorfmann/cdktf-aws-ecr-asset](https://github.com/skorfmann/cdktf-aws-ecr-asset/.projenrc.js) - desc
-- [skorfmann/cdktf-github-constructs](https://github.com/skorfmann/cdktf-github-constructs/.projenrc.js) - desc
-- [taimos/taimos-projen](https://github.com/taimos/taimos-projen/.projenrc.js) - desc
-- [toricls/cdk8s-debore](https://github.com/toricls/cdk8s-debore/.projenrc.js) - desc
+- [eladb/cdk8s-dashboard](https://github.com/eladb/cdk8s-dashboard/.projenrc.js) - Kubernetes dashboard construct library for cdk8s.
+- [eladb/cdk8s-operator](https://github.com/eladb/cdk8s-operator/.projenrc.js) - CDK8s operator like pattern.
+- [eladb/cdk8s-redis](https://github.com/eladb/cdk8s-redis/.projenrc.js) - redis constructs for cdk8s.
+- [eladb/cfunctions](https://github.com/eladb/cfunctions/.projenrc.js) - Cloud Functions.
+- [iliapolo/aws-cdk-sdk](https://github.com/iliapolo/aws-cdk-sdk/.projenrc.js) - CDK for the AWS SDK.
+- [iliapolo/constructs-tokens-staging](https://github.com/iliapolo/constructs-tokens-staging/.projenrc.js) - Tokens system for the constructs programming model.
+- [mmuller88/alps-unified-ts](https://github.com/mmuller88/alps-unified-ts/.projenrc.js) - Convert an ALPS API spec to other API spec like openApi, Graph QL Schema.
+- [rayou/cdk-url-shortener](https://github.com/rayou/cdk-url-shortener/.projenrc.js) - Deploy a URL shortener with custom domain support in just a few lines of code.
+- [skorfmann/cdktf-aws-ecr-asset](https://github.com/skorfmann/cdktf-aws-ecr-asset/.projenrc.js) - Terraform CDK - L2 - AWS ECR Asset.
+- [skorfmann/cdktf-github-constructs](https://github.com/skorfmann/cdktf-github-constructs/.projenrc.js) - Terraform CDK - L2 - GitHub Provider.
+- [toricls/cdk8s-debore](https://github.com/toricls/cdk8s-debore/.projenrc.js) - Run your apps on Kubernetes cluster without bored YAMLing.
 
 #### TypeScriptProject
 
-- [eladb/cdk8s-pack-prototype](https://github.com/eladb/cdk8s-pack-prototype/.projenrc.js) - desc
 - [eladb/cfn-resources](https://github.com/eladb/cfn-resources/.projenrc.js) - desc
 - [eladb/markmac](https://github.com/eladb/markmac/.projenrc.js) - desc
 - [mmuller88/alf-cdk-api-gw](https://github.com/mmuller88/alf-cdk-api-gw/.projenrc.js) - desc
