@@ -171,7 +171,7 @@ Define and maintain complex project configuration through code.
 - [guan840912/cdk-gitlab-runner](https://github.com/guan840912/cdk-gitlab-runner/blob/master/.projenrc.js) - desc
 - [guan840912/cdk-gitlab](https://github.com/guan840912/cdk-gitlab/blob/master/.projenrc.js) - desc
 - [guan840912/cdk-s3bucket](https://github.com/guan840912/cdk-s3bucket/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/resource-overwrite-ecs-sample](https://github.com/guan840912/cdk-sample-save/aws-cdk-typescript/resource-overwrite-ecs-sample/blob/master/.projenrc.js) - desc
+- [guan840912/cdk-sample-save/aws-cdk-typescript/resource-overwrite-ecs-sample](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/resource-overwrite-ecs-sample/.projenrc.js) - desc
 - [guan840912/secure-bucket](https://github.com/guan840912/secure-bucket/blob/master/.projenrc.js) - desc
 - [hayao-k/cdk-ecr-image-scan-notify](https://github.com/hayao-k/cdk-ecr-image-scan-notify/blob/master/.projenrc.js) - desc
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs/blob/master/.projenrc.js) - desc
