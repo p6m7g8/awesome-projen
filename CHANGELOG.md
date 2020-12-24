@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.16](https://github.com/p6m7g8/awesome-projen/compare/v0.0.15...v0.0.16) (2020-12-24)
+
+
+### Bug Fixes
+
+* links in AwsCdkConstructLibrary ([#25](https://github.com/p6m7g8/awesome-projen/issues/25)) ([4df486d](https://github.com/p6m7g8/awesome-projen/commit/4df486de67874b31782e96f900e58e234870234f))
+
 ### [0.0.15](https://github.com/p6m7g8/awesome-projen/compare/v0.0.14...v0.0.15) (2020-12-24)
 
 
