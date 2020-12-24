@@ -141,63 +141,56 @@ Define and maintain complex project configuration through code.
 
 #### AwsCdkConstructLibrary
 
-- [EdwinRad/cdkfoldingathome](https://github.com/EdwinRad/cdkfoldingathome/blob/main/.projenrc.js) - desc
-- [JordanSinko/the-autoscaling-kinesis-stream](https://github.com/JordanSinko/the-autoscaling-kinesis-stream/blob/master/.projenrc.js) - desc
-- [JordanSinko/the-slack-pipeline-approval](https://github.com/JordanSinko/the-slack-pipeline-approval/blob/master/.projenrc.js) - desc
-- [JordanSinko/the-stagged-stack](https://github.com/JordanSinko/the-stagged-stack/blob/master/.projenrc.js) - desc
-- [JordanSinko/the-typescript-lambda](https://github.com/JordanSinko/the-typescript-lambda/blob/master/.projenrc.js) - desc
-- [NomadBlacky/hello-cdk-lib](https://github.com/NomadBlacky/hello-cdk-lib/blob/master/.projenrc.js) - desc
-- [SnapPetal/cdk-cloudfront-deploy](https://github.com/SnapPetal/cdk-cloudfront-deploy/blob/main/.projenrc.js) - desc
-- [StErMi/cdk-website](https://github.com/StErMi/cdk-website/blob/main/.projenrc.js) - desc
-- [cerealcoder/aws-cdk-serverless-timer](https://github.com/cerealcoder/aws-cdk-serverless-timer/blob/master/.projenrc.js) - desc
-- [clarencetw/cdk-sns-notify](https://github.com/clarencetw/cdk-sns-notify/blob/master/.projenrc.js) - desc
-- [clarencetw/cdk-wordpress](https://github.com/clarencetw/cdk-wordpress/blob/master/.projenrc.js) - desc
-- [co2zxc/aws-cdk-test](https://github.com/co2zxc/aws-cdk-test/blob/main/.projenrc.js) - desc
-- [eladb/cdk-asset-publisher](https://github.com/eladb/cdk-asset-publisher/blob/main/.projenrc.js) - desc
-- [flyingImer/cdk-distributed-computing](https://github.com/flyingImer/cdk-distributed-computing/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-aurora-globaldatabase](https://github.com/guan840912/cdk-aurora-globaldatabase/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-events-notify](https://github.com/guan840912/cdk-events-notify/blob/main/.projenrc.js) - desc
-- [guan840912/cdk-gitlab-runner](https://github.com/guan840912/cdk-gitlab-runner/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-s3bucket](https://github.com/guan840912/cdk-s3bucket/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/resource-overwrite-ecs-sample](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/resource-overwrite-ecs-sample/.projenrc.js) - desc
-- [guan840912/secure-bucket](https://github.com/guan840912/secure-bucket/blob/main/.projenrc.js) - desc
-- [hayao-k/cdk-ecr-image-scan-notify](https://github.com/hayao-k/cdk-ecr-image-scan-notify/blob/main/.projenrc.js) - desc
-- [jogold/cloudstructs](https://github.com/jogold/cloudstructs/blob/master/.projenrc.js) - desc
-- [jossaq/joq-demo-back](https://github.com/jossaq/joq-demo-back/blob/main/.projenrc.js) - desc
-- [jossaq/jossaq-demo-backend](https://github.com/jossaq/jossaq-demo-backend/blob/master/.projenrc.js) - desc
-- [jossaq/jossaq-demo-front](https://github.com/jossaq/jossaq-demo-front/blob/master/.projenrc.js) - desc
-- [kcwinner/cdk-appsync-transformer](https://github.com/kcwinner/cdk-appsync-transformer/blob/main/.projenrc.js) - desc
-- [kcwinner/cdk-bucket-deployment-expirator](https://github.com/kcwinner/cdk-bucket-deployment-expirator/blob/main/.projenrc.js) - desc
-- [kirkchen/cdk-image-builder-patterns](https://github.com/kirkchen/cdk-image-builder-patterns/blob/main/.projenrc.js) - desc
-- [markusl/cdk-codepipeline-bitbucket-build-result-reporter](https://github.com/markusl/cdk-codepipeline-bitbucket-build-result-reporter/blob/master/.projenrc.js) - desc
-- [markusl/cdk-ecr-image-scan-handler](https://github.com/markusl/cdk-ecr-image-scan-handler/blob/master/.projenrc.js) - desc
-- [mbonig/nightynight](https://github.com/mbonig/nightynight/blob/master/.projenrc.js) - desc
-- [mbonig/sqs-redrive](https://github.com/mbonig/sqs-redrive/blob/master/.projenrc.js) - desc
-- [mbonig/wakeywakey](https://github.com/mbonig/wakeywakey/blob/master/.projenrc.js) - desc
-- [mikeyangyo/cdk-changelog-slack-notify](https://github.com/mikeyangyo/cdk-changelog-slack-notify/blob/main/.projenrc.js) - desc
-- [mmuller88/aws-cdk-ssm-parameter](https://github.com/mmuller88/aws-cdk-ssm-parameter/blob/master/.projenrc.js) - desc
-- [mmuller88/cdk-alps-graph-ql](https://github.com/mmuller88/cdk-alps-graph-ql/blob/main/.projenrc.js) - desc
-- [mmuller88/cdk-alps-spec-rest-api](https://github.com/mmuller88/cdk-alps-spec-rest-api/blob/main/.projenrc.js) - desc
-- [p6m7g8/p6-barrier](https://github.com/p6m7g8/p6-barrier/blob/master/.projenrc.js) - desc
-- [p6m7g8/p6-namer](https://github.com/p6m7g8/p6-namer/blob/master/.projenrc.js) - desc
-- [pahud/awscdk-run](https://github.com/pahud/awscdk-run/blob/main/.projenrc.js) - desc
-- [pahud/cdk-apisix](https://github.com/pahud/cdk-apisix/blob/main/.projenrc.js) - desc
-- [pahud/cdk-efs-assets](https://github.com/pahud/cdk-efs-assets/blob/master/.projenrc.js) - desc
-- [pahud/cdk-eks-spotblocks](https://github.com/pahud/cdk-eks-spotblocks/blob/master/.projenrc.js) - desc
-- [pahud/cdk-fargate-express](https://github.com/pahud/cdk-fargate-express/blob/master/.projenrc.js) - desc
-- [pahud/cdk-fargate-run-task](https://github.com/pahud/cdk-fargate-run-task/blob/main/.projenrc.js) - desc
-- [pahud/cdk-gitlab](https://github.com/pahud/cdk-gitlab/blob/main/.projenrc.js) - desc
-- [pahud/cdk-lambda-extensions](https://github.com/pahud/cdk-lambda-extensions/blob/main/.projenrc.js) - desc
-- [pahud/cdk-remote-stack](https://github.com/pahud/cdk-remote-stack/blob/master/.projenrc.js) - desc
-- [pahud/cdk-soca](https://github.com/pahud/cdk-soca/blob/master/.projenrc.js) - desc
-- [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one/blob/master/.projenrc.js) - desc
-- [pahud/cdk-ssm-parameter-store](https://github.com/pahud/cdk-ssm-parameter-store/blob/master/.projenrc.js) - desc
-- [pgarbe/cdk-bitbucket-server](https://github.com/pgarbe/cdk-bitbucket-server/blob/master/.projenrc.js) - desc
-- [pgarbe/cdk-ecr-sync](https://github.com/pgarbe/cdk-ecr-sync/blob/master/.projenrc.js) - desc
-- [pszabop/cdk-vpc-export-import](https://github.com/pszabop/cdk-vpc-export-import/blob/master/.projenrc.js) - desc
-- [stefanfreitag/cdk-budget-notifier](https://github.com/stefanfreitag/cdk-budget-notifier/blob/master/.projenrc.js) - desc
-- [stefanfreitag/gradle_uploader](https://github.com/stefanfreitag/gradle_uploader/blob/master/.projenrc.js) - desc
-- [wheatstalk/cdk-ecs-website](https://github.com/wheatstalk/cdk-ecs-website/blob/master/.projenrc.js) - desc
+- [EdwinRad/cdkfoldingathome](https://github.com/EdwinRad/cdkfoldingathome/blob/main/.projenrc.js) - Never forget to shut off expensive instances. With built-in TTL for your stack, you just define the lifetime of your instances and the stack will be destroyed afterwards.
+- [JordanSinko/the-slack-pipeline-approval](https://github.com/JordanSinko/the-slack-pipeline-approval/blob/master/.projenrc.js) - CDK pipelines with approvals
+- [SnapPetal/cdk-cloudfront-deploy](https://github.com/SnapPetal/cdk-cloudfront-deploy/blob/main/.projenrc.js) - simplify deploying a single-page website use CloudFront distributions.
+- [StErMi/cdk-website](https://github.com/StErMi/cdk-website/blob/main/.projenrc.js) - AWS CDK construct to instantly deploy a static website on serverless infrastructure. Easy, fast, done.
+- [cerealcoder/aws-cdk-serverless-timer](https://github.com/cerealcoder/aws-cdk-serverless-timer/blob/master/.projenrc.js) - deploy a scalable periodic timer that invokes scalable a Lambda function. The timer service is controlled by an API Gateway REST API.
+- [clarencetw/cdk-sns-notify](https://github.com/clarencetw/cdk-sns-notify/blob/master/.projenrc.js) - CDK library to send line notify or discord webhook
+- [clarencetw/cdk-wordpress](https://github.com/clarencetw/cdk-wordpress/blob/master/.projenrc.js) - CDK construct library to deploy WordPress.
+- [co2zxc/aws-cdk-test](https://github.com/co2zxc/aws-cdk-test/blob/main/.projenrc.js) - High level CDK construct to provision GitLab integrations with AWS.
+- [eladb/cdk-asset-publisher](https://github.com/eladb/cdk-asset-publisher/blob/main/.projenrc.js) - Publish an asset to buckets in multiple regions (or all regions) via a pipeline.
+- [flyingImer/cdk-distributed-computing](https://github.com/flyingImer/cdk-distributed-computing/blob/master/.projenrc.js) - A place holds distributed patterns using serverless power.
+- [guan840912/cdk-aurora-globaldatabase](https://github.com/guan840912/cdk-aurora-globaldatabase/blob/master/.projenrc.js) - AWS CDK construct library that allows you to create Amazon Aurora Global Databases with AWS CDK in Typescript or Python.
+- [guan840912/cdk-events-notify](https://github.com/guan840912/cdk-events-notify/blob/main/.projenrc.js) - Events Notify AWS Construct lib for AWS CDK.
+- [guan840912/cdk-gitlab-runner](https://github.com/guan840912/cdk-gitlab-runner/blob/master/.projenrc.js) - Gitlab Runner JSII construct lib for AWS CDK.
+- [guan840912/cdk-s3bucket](https://github.com/guan840912/cdk-s3bucket/blob/master/.projenrc.js) - AWS CDK construct library that provides a drop-in replacement for the Bucket construct with the capability to remove non-empty S3 buckets.
+- [guan840912/cdk-sample-save/aws-cdk-typescript/resource-overwrite-ecs-sample](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/resource-overwrite-ecs-sample/.projenrc.js) - ECS overwrite example.
+- [guan840912/secure-bucket](https://github.com/guan840912/secure-bucket/blob/main/.projenrc.js) - a "secure" bucket"
+- [hayao-k/cdk-ecr-image-scan-notify](https://github.com/hayao-k/cdk-ecr-image-scan-notify/blob/main/.projenrc.js) - AWS CDK construct library that notify the slack channel of Amazon ECR image scan results.
+- [jogold/cloudstructs](https://github.com/jogold/cloudstructs/blob/master/.projenrc.js) - EcsServiceRoller,EmailReceiver,SlackEvents,SlackTextract,StateMachineCustomResourceProvider,StaticWebsite,UrlShortner.
+- [kcwinner/cdk-appsync-transformer](https://github.com/kcwinner/cdk-appsync-transformer/blob/main/.projenrc.js) - AppSync Transformer Construct for AWS CDK
+- [kcwinner/cdk-bucket-deployment-expirator](https://github.com/kcwinner/cdk-bucket-deployment-expirator/blob/main/.projenrc.js) - Opinionated CDK Bucket Deployment object pruner for maintaining N old versions.
+- [kirkchen/cdk-image-builder-patterns](https://github.com/kirkchen/cdk-image-builder-patterns/blob/main/.projenrc.js) - CDK Construct to build Windows images via Jenkins and Powershell.
+- [markusl/cdk-codepipeline-bitbucket-build-result-reporter](https://github.com/markusl/cdk-codepipeline-bitbucket-build-result-reporter/blob/master/.projenrc.js) - JSII construct lib for reporting AWS CodePipeline build statuses to a Bitbucket server instance.
+- [markusl/cdk-ecr-image-scan-handler](https://github.com/markusl/cdk-ecr-image-scan-handler/blob/master/.projenrc.js) - JSII construct for ECR image scan results processing and reporting via Email or Microsoft Teams webhook.
+- [mbonig/nightynight](https://github.com/mbonig/nightynight/blob/master/.projenrc.js) - CDK construct that will automatically stop a running EC2 instance at a given time.
+- [mbonig/sqs-redrive](https://github.com/mbonig/sqs-redrive/blob/master/.projenrc.js) - redrive construct to use with an SQS queue and it's dead letter queue.
+- [mbonig/wakeywakey](https://github.com/mbonig/wakeywakey/blob/master/.projenrc.js) - CDK construct that will automatically start a stopped EC2 instance at a given time.
+- [mikeyangyo/cdk-changelog-slack-notify](https://github.com/mikeyangyo/cdk-changelog-slack-notify/blob/main/.projenrc.js) - JSII construct lib to deploy a service to send new changes pushed to codecommit to slack channel.
+- [mmuller88/aws-cdk-ssm-parameter](https://github.com/mmuller88/aws-cdk-ssm-parameter/blob/master/.projenrc.js) - AWS CDK Construct for get the value of an SSM parameter. If the parameter doesn't exist, it will be created. The implementation simply leverages AwsCustomResource as an SDK wrapper.
+- [mmuller88/cdk-alps-graph-ql](https://github.com/mmuller88/cdk-alps-graph-ql/blob/main/.projenrc.js) - Generates an AWS Graph QL out of an ALPS API yaml file.
+- [mmuller88/cdk-alps-spec-rest-api](https://github.com/mmuller88/cdk-alps-spec-rest-api/blob/main/.projenrc.js) - Generates an AWS API Gateway out of an ALPS API yaml
+- [p6m7g8/p6-barrier](https://github.com/p6m7g8/p6-barrier/blob/master/.projenrc.js) - P6Barrier is an AWS CDK Construct that deploys a Custom Resource which will poll until AWS Lambda Function isReady returns true. Ideal for running code AFTER an RDS or EKS is ready.
+- [p6m7g8/p6-namer](https://github.com/p6m7g8/p6-namer/blob/master/.projenrc.js) - Sets the AWS IAM Account Alias with a Custom Resource.
+- [pahud/awscdk-run](https://github.com/pahud/awscdk-run/blob/main/.projenrc.js) - 1-Click AWS CDK Deploy like CloudFormation.
+- [pahud/cdk-apisix](https://github.com/pahud/cdk-apisix/blob/main/.projenrc.js) - CDK construct library to generate serverless Apache APISIX workload on AWS Fargate.
+- [pahud/cdk-efs-assets](https://github.com/pahud/cdk-efs-assets/blob/master/.projenrc.js) - Amazon EFS assets from Github repositories or S3 buckets.
+- [pahud/cdk-eks-spotblocks](https://github.com/pahud/cdk-eks-spotblocks/blob/master/.projenrc.js) - sample JSII construct lib for AWS CDK.
+- [pahud/cdk-fargate-express](https://github.com/pahud/cdk-fargate-express/blob/master/.projenrc.js) - sample JSII construct lib for Express Apps in AWS Fargate.
+- [pahud/cdk-fargate-run-task](https://github.com/pahud/cdk-fargate-run-task/blob/main/.projenrc.js) - Define and run container tasks on AWS Fargate immediately or with schedule.
+- [pahud/cdk-gitlab](https://github.com/pahud/cdk-gitlab/blob/main/.projenrc.js) - High level CDK construct to provision GitLab integrations with AWS.
+- [pahud/cdk-lambda-extensions](https://github.com/pahud/cdk-lambda-extensions/blob/main/.projenrc.js) - AWS CDK construct library that allows you to add any AWS Lambda extensions to the Lambda functions.
+- [pahud/cdk-remote-stack](https://github.com/pahud/cdk-remote-stack/blob/master/.projenrc.js) - Get outputs from cross-regional AWS CDK stacks.
+- [pahud/cdk-soca](https://github.com/pahud/cdk-soca/blob/master/.projenrc.js) - AWS CDK construct library that allows you to create the Scale-Out Computing on AWS with AWS CDK in TypeScript or Python.
+- [pahud/cdk-spot-one](https://github.com/pahud/cdk-spot-one/blob/master/.projenrc.js) - One spot instance with EIP and defined duration. No interruption.
+- [pahud/cdk-ssm-parameter-store](https://github.com/pahud/cdk-ssm-parameter-store/blob/master/.projenrc.js) - AWS CDK construct that allows you to get the latest Version of the AWS SSM Parameters.
+- [pgarbe/cdk-bitbucket-server](https://github.com/pgarbe/cdk-bitbucket-server/blob/master/.projenrc.js) - A CDK Construct library to work with BitBucket Server (Stash).
+- [pgarbe/cdk-ecr-sync](https://github.com/pgarbe/cdk-ecr-sync/blob/master/.projenrc.js) - CDK Construct to synchronizes Docker images from Docker Hub to ECR.
+- [pszabop/cdk-vpc-export-import](https://github.com/pszabop/cdk-vpc-export-import/blob/master/.projenrc.js) - export VPC from one stack, import to another.
+- [stefanfreitag/cdk-budget-notifier](https://github.com/stefanfreitag/cdk-budget-notifier/blob/master/.projenrc.js) - simple AWS budget notifier.
+- [stefanfreitag/gradle_uploader](https://github.com/stefanfreitag/gradle_uploader/blob/master/.projenrc.js) - Uploads new Gradle versions to an S3 bucket.
+- [wheatstalk/cdk-ecs-website](https://github.com/wheatstalk/cdk-ecs-website/blob/master/.projenrc.js) - Construct creates an ECS service following a shared ALB pattern.
 
 #### CdktfProviderProject
 
