@@ -86,7 +86,7 @@ Define and maintain complex project configuration through code.
 - [eladb/markmac](https://github.com/eladb/markmac/blob/master/.projenrc.js) - Markdown macros - embed program outputs in markdown.
 - [mmuller88/alf-cdk-api-gw](https://github.com/mmuller88/alf-cdk-api-gw/blob/master/.projenrc.js) - Alfresco Backend.
 - [mmuller88/alf-cdk-cognito](https://github.com/mmuller88/alf-cdk-cognito/blob/master/.projenrc.js) - Cognito User Pool for managing users.
-- [mmuller88/alf-cdk-ui/cdk](https://github.com/mmuller88/alf-cdk-ui/cdk/blob/master/.projenrc.js) - Alfresco Provisioner Frontend.
+- [mmuller88/alf-cdk-ui/cdk](https://github.com/mmuller88/alf-cdk-ui/blob/master/.projenrc.js) - Alfresco Provisioner Frontend.
 - [mmuller88/alf-cdk](https://github.com/mmuller88/alf-cdk/blob/master/.projenrc.js) - The Alfresco Provisioner.
 - [mmuller88/alfresco-ocr](https://github.com/mmuller88/alfresco-ocr/blob/master/.projenrc.js) - Alfresco OCR.
 - [skorfmann/cfn2tf](https://github.com/skorfmann/cfn2tf/blob/master/.projenrc.js) - Converts CloudFormation resources to Terraform resources.
