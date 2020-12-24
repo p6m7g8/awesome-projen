@@ -67,7 +67,7 @@ Define and maintain complex project configuration through code.
 
 #### JsiiProject
 
-- [ArmaanT/cdkactions/packages/cdkactions](https://github.com/ArmaanT/cdkactions/packages/cdkactions/blob/master/.projenrc.js) - Cloud Development Kit for GitHub Actions.
+- [ArmaanT/cdkactions/packages/cdkactions](https://github.com/ArmaanT/cdkactions/blob/master/packages/cdkactions/.projenrc.js) - Cloud Development Kit for GitHub Actions.
 - [eladb/cdk8s-dashboard](https://github.com/eladb/cdk8s-dashboard/blob/master/.projenrc.js) - Kubernetes dashboard construct library for cdk8s.
 - [eladb/cdk8s-operator](https://github.com/eladb/cdk8s-operator/blob/master/.projenrc.js) - CDK8s operator like pattern.
 - [eladb/cdk8s-redis](https://github.com/eladb/cdk8s-redis/blob/master/.projenrc.js) - redis constructs for cdk8s.
