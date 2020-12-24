@@ -28,6 +28,7 @@ Define and maintain complex project configuration through code.
 
 - Elad Ben-Israel's CDK Day 2020 [Talk](https://www.youtube.com/watch?v=SOWMPzXtTCw&feature=youtu.be).
 - Matthew Bonig's [Blog](https://matthewbonig.com/2020/10/04/converting-to-projen/).
+- Ken Winner's [Blog](https://kennethwinner.com/2020/11/16/custom-projen-project-codeartifact/)
 
 ## Social Media
 
