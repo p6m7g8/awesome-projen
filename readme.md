@@ -107,20 +107,20 @@ Define and maintain complex project configuration through code.
 - [davidsung/eks-efs-cdk](https://github.com/davidsung/eks-efs-cdk/blob/master/.projenrc.js) - desc
 - [elthrasher/circular-layer](https://github.com/elthrasher/circular-layer/blob/master/.projenrc.js) - desc
 - [fsalamida/aws-report-signin](https://github.com/fsalamida/aws-report-signin/blob/master/.projenrc.js) - desc
-- [guan840912/aws-lambda-container-sample/cdk-lambda-container](https://github.com/guan840912/aws-lambda-container-sample/cdk-lambda-container/blob/master/.projenrc.js) - desc
+- [guan840912/aws-lambda-container-sample/cdk-lambda-container](https://github.com/guan840912/aws-lambda-container-sample/blob/main/cdk-lambda-container/.projenrc.js) - desc
 - [guan840912/cdk-containers-lab](https://github.com/guan840912/cdk-containers-lab/blob/master/.projenrc.js) - desc
 - [guan840912/cdk-okd-311-infra](https://github.com/guan840912/cdk-okd-311-infra/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/centosInstance](https://github.com/guan840912/cdk-sample-save/aws-cdk-typescript/centosInstance/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/eks-console-view](https://github.com/guan840912/cdk-sample-save/aws-cdk-typescript/eks-console-view/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-container](https://github.com/guan840912/cdk-sample-save/aws-cdk-typescript/lambda-container/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-s3-endpoint](https://github.com/guan840912/cdk-sample-save/aws-cdk-typescript/lambda-s3-endpoint/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/testvpceip](https://github.com/guan840912/cdk-sample-save/aws-cdk-typescript/testvpceip/blob/master/.projenrc.js) - desc
+- [guan840912/cdk-sample-save/aws-cdk-typescript/centosInstance](https://github.com/guan840912/blob/master/cdk-sample-save/aws-cdk-typescript/centosInstance/.projenrc.js) - desc
+- [guan840912/cdk-sample-save/aws-cdk-typescript/eks-console-view](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/eks-console-view/.projenrc.js) - desc
+- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-container](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-container/.projenrc.js) - desc
+- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-s3-endpoint](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-s3-endpoint/.projenrc.js) - desc
+- [guan840912/cdk-sample-save/aws-cdk-typescript/testvpceip](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/testvpceip/.projenrc.js) - desc
 - [guan840912/cdk8s-cdk-example](https://github.com/guan840912/cdk8s-cdk-example/blob/master/.projenrc.js) - desc
 - [guan840912/ddt-techday-demo](https://github.com/guan840912/ddt-techday-demo/blob/master/.projenrc.js) - desc
 - [guan840912/rke2-eks-d-lab](https://github.com/guan840912/rke2-eks-d-lab/blob/master/.projenrc.js) - desc
 - [intercept6/cdk-module-division-example](https://github.com/intercept6/cdk-module-division-example/blob/master/.projenrc.js) - desc
 - [intercept6/sample-grpc-with-aws-alb](https://github.com/intercept6/sample-grpc-with-aws-alb/blob/master/.projenrc.js) - desc
-- [kcwinner/advocacy/cubejs-serverless-demo](https://github.com/kcwinner/advocacy/cubejs-serverless-demo/blob/master/.projenrc.js) - desc
+- [kcwinner/advocacy/cubejs-serverless-demo](https://github.com/kcwinner/advocacy/blob/master/cubejs-serverless-demo/.projenrc.js) - desc
 - [kcwinner/cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/master/.projenrc.js) - desc
 - [kirkchen/cdk-jenkins-with-dynamic-workers](https://github.com/kirkchen/cdk-jenkins-with-dynamic-workers/blob/master/.projenrc.js) - desc
 - [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/master/.projenrc.js) - desc
@@ -145,7 +145,7 @@ Define and maintain complex project configuration through code.
 - [pgarbe/cdk-stackset](https://github.com/pgarbe/cdk-stackset/blob/master/.projenrc.js) - desc
 - [pszabop/cdk-vpc-export-import-test](https://github.com/pszabop/cdk-vpc-export-import-test/blob/master/.projenrc.js) - desc
 - [rogerchi/vns-pdf-gen](https://github.com/rogerchi/vns-pdf-gen/blob/master/.projenrc.js) - desc
-- [stefanfreitag/csv-to-heartbeat-yml/cdk](https://github.com/stefanfreitag/csv-to-heartbeat-yml/cdk/blob/master/.projenrc.js) - Converts CSV data to heartbeat yml files.
+- [stefanfreitag/csv-to-heartbeat-yml/cdk](https://github.com/stefanfreitag/csv-to-heartbeat-yml/blob/master/cdk/.projenrc.js) - Converts CSV data to heartbeat yml files.
 - [stefanfreitag/helloWorldLambda](https://github.com/stefanfreitag/helloWorldLambda/blob/master/.projenrc.js) - Hello World application using an AWS API Gateway and Lambda function.
 - [titanjer/cdk-lambda-edge](https://github.com/titanjer/cdk-lambda-edge/blob/master/.projenrc.js) - lambda@edge to validate app version in request user-agent.
 
