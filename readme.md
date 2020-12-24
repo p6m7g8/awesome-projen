@@ -28,19 +28,19 @@ Define and maintain complex project configuration through code.
 ## Blog Posts & Talks
 
 - Elad Ben-Israel's CDK Day 2020 [Talk](https://www.youtube.com/watch?v=SOWMPzXtTCw&feature=youtu.be).
-- Matthew Bonig's [Blog](https://matthewbonig.com/2020/10/04/converting-to-projen/)
+- Matthew Bonig's [Blog](https://matthewbonig.com/2020/10/04/converting-to-projen/).
 
 ## Social Media
 
-- [#projen](https://twitter.com/hashtag/projen?lang=en) - #projen hash tag on Twitter
+- [#projen](https://twitter.com/hashtag/projen?lang=en) - #projen hash tag on Twitter.
 
 ## External Project Types
 
-- [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-transformer) - Projen for AppSync
-- [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/blob/master/.projenrc.js) - Projen for Terraform
-- [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/blob/main/.projenrc.js) - desc
-- [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/blob/master/.projenrc.js) - desc
-- [taimos/taimos-projen](https://github.com/taimos/taimos-projen/blob/main/.projenrc.js) - desc
+- [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-transformer) - Projen for AppSync.
+- [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/blob/master/.projenrc.js) - Projen for Terraform.
+- [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/blob/main/.projenrc.js) - Open FaaS Node Project.
+- [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/blob/master/.projenrc.js) -  aws cdk project with a test stack and lambda function using webpack bundler and other features.
+- [taimos/taimos-projen](https://github.com/taimos/taimos-projen/blob/main/.projenrc.js) - CDK App, CDK Construct, Ts Lib
 
 ## Projects using Projen
 
@@ -98,49 +98,43 @@ Define and maintain complex project configuration through code.
 
 #### AwsCdkTypeScriptApp
 
-- [OperationalFallacy/max-lambda-out](https://github.com/OperationalFallacy/max-lambda-out/blob/master/.projenrc.js) - desc
-- [aws-samples/amazon-eks-refarch-cloudformation](https://github.com/aws-samples/amazon-eks-refarch-cloudformation/blob/master/.projenrc.js) - desc
-- [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli/blob/master/.projenrc.js) - desc
-- [cerealcoder/aws-cdk-serverless-timer-test](https://github.com/cerealcoder/aws-cdk-serverless-timer-test/blob/master/.projenrc.js) - desc
-- [davidsung/ecs-kinesis-log-archiving-cdk](https://github.com/davidsung/ecs-kinesis-log-archiving-cdk/blob/main/.projenrc.js) - desc
-- [davidsung/ecs-servicediscovery-cdk](https://github.com/davidsung/ecs-servicediscovery-cdk/blob/master/.projenrc.js) - desc
-- [davidsung/eks-efs-cdk](https://github.com/davidsung/eks-efs-cdk/blob/main/.projenrc.js) - desc
-- [elthrasher/circular-layer](https://github.com/elthrasher/circular-layer/blob/main/.projenrc.js) - desc
-- [fsalamida/aws-report-signin](https://github.com/fsalamida/aws-report-signin/blob/main/.projenrc.js) - desc
-- [guan840912/aws-lambda-container-sample/cdk-lambda-container](https://github.com/guan840912/aws-lambda-container-sample/blob/main/cdk-lambda-container/.projenrc.js) - desc
-- [guan840912/cdk-containers-lab](https://github.com/guan840912/cdk-containers-lab/blob/main/.projenrc.js) - desc
-- [guan840912/cdk-okd-311-infra](https://github.com/guan840912/cdk-okd-311-infra/blob/main/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/centosInstance](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/centosInstance/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/eks-console-view](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/eks-console-view/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-container](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-container/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-s3-endpoint](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-s3-endpoint/.projenrc.js) - desc
-- [guan840912/cdk-sample-save/aws-cdk-typescript/testvpceip](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/testvpceip/.projenrc.js) - desc
-- [guan840912/cdk8s-cdk-example](https://github.com/guan840912/cdk8s-cdk-example/blob/main/.projenrc.js) - desc
-- [guan840912/ddt-techday-demo](https://github.com/guan840912/ddt-techday-demo/blob/main/.projenrc.js) - desc
-- [guan840912/rke2-eks-d-lab](https://github.com/guan840912/rke2-eks-d-lab/blob/main/.projenrc.js) - desc
-- [intercept6/cdk-module-division-example](https://github.com/intercept6/cdk-module-division-example/blob/main/.projenrc.js) - desc
-- [intercept6/sample-grpc-with-aws-alb](https://github.com/intercept6/sample-grpc-with-aws-alb/blob/main/.projenrc.js) - desc
-- [kcwinner/advocacy/cubejs-serverless-demo](https://github.com/kcwinner/advocacy/blob/master/cubejs-serverless-demo/.projenrc.js) - desc
-- [kcwinner/cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/main/.projenrc.js) - desc
-- [kirkchen/cdk-jenkins-with-dynamic-workers](https://github.com/kirkchen/cdk-jenkins-with-dynamic-workers/blob/main/.projenrc.js) - desc
-- [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/main/.projenrc.js) - desc
-- [martzcodes/blog-ts-request-validation](https://github.com/martzcodes/blog-ts-request-validation/blob/main/.projenrc.js) - desc
-- [mbonig/cdk-published-listener](https://github.com/mbonig/cdk-published-listener/blob/master/.projenrc.js) - desc
-- [mmuller88/cdk-alps-constructs-demo](https://github.com/mmuller88/cdk-alps-constructs-demo/blob/master/.projenrc.js) - desc
-- [mmuller88/rasp4](https://github.com/mmuller88/rasp4/blob/master/.projenrc.js) - desc
-- [nikovirtala/cdk-preview-environments](https://github.com/nikovirtala/cdk-preview-environments/blob/main/.projenrc.js) - desc
-- [pahud/aws-cdk-eks-sample](https://github.com/pahud/aws-cdk-eks-sample/blob/main/.projenrc.js) - desc
-- [pahud/aws-cdk-fargate-sample](https://github.com/pahud/aws-cdk-fargate-sample/blob/main/.projenrc.js) - desc
-- [pahud/aws-cdk-serverless-sample](https://github.com/pahud/aws-cdk-serverless-sample/blob/master/.projenrc.js) - desc
-- [pahud/aws-cdk-spotone-sample](https://github.com/pahud/aws-cdk-spotone-sample/blob/main/.projenrc.js) - desc
-- [pahud/cdk-cfn-module-securebucket](https://github.com/pahud/cdk-cfn-module-securebucket/blob/main/.projenrc.js) - desc
-- [pahud/eks-cdk8s-refarch](https://github.com/pahud/eks-cdk8s-refarch/blob/master/.projenrc.js) - desc
-- [pahud/fargate-global](https://github.com/pahud/fargate-global/blob/main/.projenrc.js) - desc
-- [pahud/fargate-service-single-task](https://github.com/pahud/fargate-service-single-task/blob/main/.projenrc.js) - desc
-- [pahud/lambda-gin-refarch](https://github.com/pahud/lambda-gin-refarch/blob/master/.projenrc.js) - desc
-- [pgarbe/cdk-stackset](https://github.com/pgarbe/cdk-stackset/blob/master/.projenrc.js) - desc
-- [pszabop/cdk-vpc-export-import-test](https://github.com/pszabop/cdk-vpc-export-import-test/blob/master/.projenrc.js) - desc
-- [rogerchi/vns-pdf-gen](https://github.com/rogerchi/vns-pdf-gen/blob/main/.projenrc.js) - desc
+- [OperationalFallacy/max-lambda-out](https://github.com/OperationalFallacy/max-lambda-out/blob/master/.projenrc.js) - Pipelines, APIs, Lambdas
+- [aws-samples/amazon-eks-refarch-cloudformation](https://github.com/aws-samples/amazon-eks-refarch-cloudformation/blob/master/.projenrc.js) - Reference architecture of Amazon EKS cloudformation templates and AWS CDK samples.
+- [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli/blob/master/.projenrc.js) - AWS Lambda Layer for AWS CLI
+- [davidsung/ecs-kinesis-log-archiving-cdk](https://github.com/davidsung/ecs-kinesis-log-archiving-cdk/blob/main/.projenrc.js) - Architecture demonstrating ECS Secured Log Streaming using Kinesis Data Stream and Kinesis Data Firehose.
+- [davidsung/ecs-servicediscovery-cdk](https://github.com/davidsung/ecs-servicediscovery-cdk/blob/master/.projenrc.js) - A service discovery sample for Lambda and ECS architecture
+- [elthrasher/circular-layer](https://github.com/elthrasher/circular-layer/blob/main/.projenrc.js) - circular layer aws-lambda-nodejs.
+- [fsalamida/aws-report-signin](https://github.com/fsalamida/aws-report-signin/blob/main/.projenrc.js) - Sends email when console login without mfa.
+- [guan840912/aws-lambda-container-sample/cdk-lambda-container](https://github.com/guan840912/aws-lambda-container-sample/blob/main/cdk-lambda-container/.projenrc.js) - This is Lambda Custom Container Sample repo.
+- [guan840912/cdk-okd-311-infra](https://github.com/guan840912/cdk-okd-311-infra/blob/main/.projenrc.js) - Sample for One Master Node Infra node OKD 3.11 Cluster via AWS CDK.
+- [guan840912/cdk-sample-save/aws-cdk-typescript/centosInstance](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/centosInstance/.projenrc.js) - CentOs instance w/ Docker.
+- [guan840912/cdk-sample-save/aws-cdk-typescript/eks-console-view](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/eks-console-view/.projenrc.js) - Eks viewable in console.
+- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-container](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-container/.projenrc.js) - Lambda container.
+- [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-s3-endpoint](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-s3-endpoint/.projenrc.js) - Lambda S3 endpoint.
+- [guan840912/cdk8s-cdk-example](https://github.com/guan840912/cdk8s-cdk-example/blob/main/.projenrc.js) - 2048 game.
+- [guan840912/ddt-techday-demo](https://github.com/guan840912/ddt-techday-demo/blob/main/.projenrc.js) - DDT Tech Day Demo CDK Part.
+- [guan840912/rke2-eks-d-lab](https://github.com/guan840912/rke2-eks-d-lab/blob/main/.projenrc.js) - rke2 featuring eks-d cdk sample project.
+- [kcwinner/advocacy/cubejs-serverless-demo](https://github.com/kcwinner/advocacy/blob/master/cubejs-serverless-demo/.projenrc.js) - Cube.js Serverless Demo.
+- [kcwinner/cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/main/.projenrc.js) - CDK Appsync Transformer React Demo.
+- [kirkchen/cdk-jenkins-with-dynamic-workers](https://github.com/kirkchen/cdk-jenkins-with-dynamic-workers/blob/main/.projenrc.js) - CDK - Jenkins with dynamic worker - Stateless Jenkins leader on AWS Fargate with on-demand Windows and Linux workers.
+- [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/main/.projenrc.js) - OpenAPI Specs from CDK Stack WITHOUT Deploying First.
+- [martzcodes/blog-ts-request-validation](https://github.com/martzcodes/blog-ts-request-validation/blob/main/.projenrc.js) - How to Automatically Generate Request Models from TypeScript Interfaces.
+- [mbonig/cdk-published-listener](https://github.com/mbonig/cdk-published-listener/blob/master/.projenrc.js) - Listens for CDK publishing to an SNS topic and sends you an e-mail.
+- [mmuller88/cdk-alps-constructs-demo](https://github.com/mmuller88/cdk-alps-constructs-demo/blob/master/.projenrc.js) - API Gateway and GraphQL generated out of the ALPS spec src/todo-alps.yaml.
+- [mmuller88/rasp4](https://github.com/mmuller88/rasp4/blob/master/.projenrc.js) - remote control my Raspberry 4 via AWS CodeDeploy & AWS CDK.
+- [nikovirtala/cdk-preview-environments](https://github.com/nikovirtala/cdk-preview-environments/blob/main/.projenrc.js) - Pull Request Preview Environments with AWS CDK and GitHub Actions.
+- [pahud/aws-cdk-eks-sample](https://github.com/pahud/aws-cdk-eks-sample/blob/main/.projenrc.js) - sample CDK application to create a sample Amazon EKS cluster.
+- [pahud/aws-cdk-fargate-sample](https://github.com/pahud/aws-cdk-fargate-sample/blob/main/.projenrc.js) - sample CDK application to create a sample Fargate service with ALB.
+- [pahud/aws-cdk-serverless-sample](https://github.com/pahud/aws-cdk-serverless-sample/blob/master/.projenrc.js) - Sample AWS CDK app for Amazon API Gateway and AWS Lambda.
+- [pahud/aws-cdk-spotone-sample](https://github.com/pahud/aws-cdk-spotone-sample/blob/main/.projenrc.js) - sample CDK application to create one durable spot instance with cdk-spot-one
+- [pahud/cdk-cfn-module-securebucket](https://github.com/pahud/cdk-cfn-module-securebucket/blob/main/.projenrc.js) - a "secure" S3 bucket.
+- [pahud/eks-cdk8s-refarch](https://github.com/pahud/eks-cdk8s-refarch/blob/master/.projenrc.js) - Reference architecture for building load-balanced web services in Amazon EKS with AWS CDK and CDK8S.
+- [pahud/fargate-global](https://github.com/pahud/fargate-global/blob/main/.projenrc.js) - CDK app that provisions multi-regional AWS Application Load-balanced Fargate services with AWS Global Accelerator.
+- [pahud/fargate-service-single-task](https://github.com/pahud/fargate-service-single-task/blob/main/.projenrc.js) - Fargate single task.
+- [pahud/lambda-gin-refarch](https://github.com/pahud/lambda-gin-refarch/blob/master/.projenrc.js) - reference architecture for AWS Lambda with Golang(Gin HTTP Framework), Amazon API Gateway and AWS SAM deployment.
+- [pgarbe/cdk-stackset](https://github.com/pgarbe/cdk-stackset/blob/master/.projenrc.js) - Stackset example.
+- [pszabop/cdk-vpc-export-import-test](https://github.com/pszabop/cdk-vpc-export-import-test/blob/master/.projenrc.js) - export VPC from one stack, import to another
+- [rogerchi/vns-pdf-gen](https://github.com/rogerchi/vns-pdf-gen/blob/main/.projenrc.js) - Generates pdf from vns in lambda.
 - [stefanfreitag/csv-to-heartbeat-yml/cdk](https://github.com/stefanfreitag/csv-to-heartbeat-yml/blob/master/cdk/.projenrc.js) - Converts CSV data to heartbeat yml files.
 - [stefanfreitag/helloWorldLambda](https://github.com/stefanfreitag/helloWorldLambda/blob/master/.projenrc.js) - Hello World application using an AWS API Gateway and Lambda function.
 - [titanjer/cdk-lambda-edge](https://github.com/titanjer/cdk-lambda-edge/blob/master/.projenrc.js) - lambda@edge to validate app version in request user-agent.
