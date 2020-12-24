@@ -51,15 +51,15 @@ Define and maintain complex project configuration through code.
 - [aws/jsii-release](https://github.com/aws/jsii-release/blob/master/.projenrc.js) - Release jsii modules to multiple package managers.
 - [aws/jsii-srcmak](https://github.com/aws/jsii-srcmak/blob/master/.projenrc.js) - Generate source code in multiple languages from typescript.
 - [aws/json2jsii](https://github.com/aws/json2jsii/blob/master/.projenrc.js) - Generates jsii structs from JSON schemas.
-- [awslabs/cdk8s/packages/cdk8s-plus-17](https://github.com/awslabs/cdk8s/packages/cdk8s-plus-17/blob/master/.projenrc.js) - High level abstractions on top of cdk8s.
-- [awslabs/cdk8s/packages/cdk8s-cli](https://github.com/awslabs/cdk8s/packages/cdk8s-cli/blob/master/.projenrc.js) - CLI for CDK8s.
-- [awslabs/cdk8s/packages/cdk8s](https://github.com/awslabs/cdk8s/packages/cdk8s/blob/master/.projenrc.js) - Cloud Development Kit for Kubernetes.
+- [awslabs/cdk8s/packages/cdk8s-plus-17](https://github.com/awslabs/cdk8s/blob/master/packages/cdk8s-plus-17/.projenrc.js) - High level abstractions on top of cdk8s.
+- [awslabs/cdk8s/packages/cdk8s-cli](https://github.com/awslabs/cdk8s/blob/master/packages/cdk8s-cli/.projenrc.js) - CLI for CDK8s.
+- [awslabs/cdk8s/packages/cdk8s](https://github.com/awslabs/cdk8s/blob/master/packages/cdk8s-plus-17/.projenrc.js) - Cloud Development Kit for Kubernetes.
 - [aws-samples/aws-cdk-for-k3scluster](https://github.com/aws-samples/aws-cdk-for-k3scluster/blob/master/.projenrc.js) - A JSII construct lib to deploy a K3s cluster on AWS with CDK.
 - [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler/blob/master/.projenrc.js) - A JSII construct lib to build AWS Fargate Fast Autoscaler.
 - [aws-samples/cdk-serverless-lamp](https://github.com/aws-samples/cdk-serverless-lamp/blob/master/.projenrc.js) - A JSII construct lib to build AWS Serverless LAMP with AWS CDK.
 - [cdk-dev/link-scraper](https://github.com/cdk-dev/link-scraper/blob/master/.projenrc.js) - Scrapes Links from sites used by cdk.dev website.
-- [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/packages/catalog-search/blob/master/.projenrc.js) - Search application for the construct catalog
-- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/blob/master/.projenrc.js) - This awesome list.
+- [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/blob/master/packages/catalog-search/.projenrc.js) - Search application for the construct catalog
+- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/blob/main/.projenrc.js) - This awesome list.
 
 ### Community
 
