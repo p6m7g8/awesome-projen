@@ -38,9 +38,9 @@ Define and maintain complex project configuration through code.
 
 - [kcwinner/cdk-appsync-project](https://github.com/kcwinner/cdk-appsync-transformer) - Projen for AppSync
 - [terraform-cdk-providers/cdktf-provider-project](https://github.com/terraform-cdk-providers/cdktf-provider-project/blob/master/.projenrc.js) - Projen for Terraform
-- [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/blob/master/.projenrc.js) - desc
+- [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/blob/main/.projenrc.js) - desc
 - [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/blob/master/.projenrc.js) - desc
-- [taimos/taimos-projen](https://github.com/taimos/taimos-projen/blob/master/.projenrc.js) - desc
+- [taimos/taimos-projen](https://github.com/taimos/taimos-projen/blob/main/.projenrc.js) - desc
 
 ## Projects using Projen
 
@@ -71,7 +71,7 @@ Define and maintain complex project configuration through code.
 - [eladb/cdk8s-dashboard](https://github.com/eladb/cdk8s-dashboard/blob/main/.projenrc.js) - Kubernetes dashboard construct library for cdk8s.
 - [eladb/cdk8s-operator](https://github.com/eladb/cdk8s-operator/blob/main/.projenrc.js) - CDK8s operator like pattern.
 - [eladb/cdk8s-redis](https://github.com/eladb/cdk8s-redis/blob/main/.projenrc.js) - redis constructs for cdk8s.
-- [eladb/cfunctions](https://github.com/eladb/cfunctions/blob/master/.projenrc.js) - Cloud Functions.
+- [eladb/cfunctions](https://github.com/eladb/cfunctions/blob/main/.projenrc.js) - Cloud Functions.
 - [iliapolo/aws-cdk-sdk](https://github.com/iliapolo/aws-cdk-sdk/blob/main/.projenrc.js) - CDK for the AWS SDK.
 - [iliapolo/constructs-tokens-staging](https://github.com/iliapolo/constructs-tokens-staging/blob/master/.projenrc.js) - Tokens system for the constructs programming model.
 - [mmuller88/alps-unified-ts](https://github.com/mmuller88/alps-unified-ts/blob/main/.projenrc.js) - Convert an ALPS API spec to other API spec like openApi, Graph QL Schema.
@@ -82,14 +82,14 @@ Define and maintain complex project configuration through code.
 
 #### TypeScriptProject
 
-- [eladb/cfn-resources](https://github.com/eladb/cfn-resources/blob/master/.projenrc.js) - Prints the list of resource types and logical IDs from a CloudFormation template.
+- [eladb/cfn-resources](https://github.com/eladb/cfn-resources/blob/main/.projenrc.js) - Prints the list of resource types and logical IDs from a CloudFormation template.
 - [eladb/markmac](https://github.com/eladb/markmac/blob/master/.projenrc.js) - Markdown macros - embed program outputs in markdown.
 - [mmuller88/alf-cdk-api-gw](https://github.com/mmuller88/alf-cdk-api-gw/blob/master/.projenrc.js) - Alfresco Backend.
 - [mmuller88/alf-cdk-cognito](https://github.com/mmuller88/alf-cdk-cognito/blob/master/.projenrc.js) - Cognito User Pool for managing users.
 - [mmuller88/alf-cdk-ui/cdk](https://github.com/mmuller88/alf-cdk-ui/blob/master/.projenrc.js) - Alfresco Provisioner Frontend.
 - [mmuller88/alf-cdk](https://github.com/mmuller88/alf-cdk/blob/master/.projenrc.js) - The Alfresco Provisioner.
 - [mmuller88/alfresco-ocr](https://github.com/mmuller88/alfresco-ocr/blob/master/.projenrc.js) - Alfresco OCR.
-- [skorfmann/cfn2tf](https://github.com/skorfmann/cfn2tf/blob/master/.projenrc.js) - Converts CloudFormation resources to Terraform resources.
+- [skorfmann/cfn2tf](https://github.com/skorfmann/cfn2tf/blob/benisrae/.projenrc.js) - Converts CloudFormation resources to Terraform resources.
 - [wheatstalk/ecs-service-extension-listener-rules](https://github.com/wheatstalk/ecs-service-extension-listener-rules/blob/master/.projenrc.js) - Listener Rule Extension.
 
 #### TypeScriptLibraryProject
@@ -102,49 +102,49 @@ Define and maintain complex project configuration through code.
 - [aws-samples/amazon-eks-refarch-cloudformation](https://github.com/aws-samples/amazon-eks-refarch-cloudformation/blob/master/.projenrc.js) - desc
 - [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli/blob/master/.projenrc.js) - desc
 - [cerealcoder/aws-cdk-serverless-timer-test](https://github.com/cerealcoder/aws-cdk-serverless-timer-test/blob/master/.projenrc.js) - desc
-- [davidsung/ecs-kinesis-log-archiving-cdk](https://github.com/davidsung/ecs-kinesis-log-archiving-cdk/blob/master/.projenrc.js) - desc
+- [davidsung/ecs-kinesis-log-archiving-cdk](https://github.com/davidsung/ecs-kinesis-log-archiving-cdk/blob/main/.projenrc.js) - desc
 - [davidsung/ecs-servicediscovery-cdk](https://github.com/davidsung/ecs-servicediscovery-cdk/blob/master/.projenrc.js) - desc
-- [davidsung/eks-efs-cdk](https://github.com/davidsung/eks-efs-cdk/blob/master/.projenrc.js) - desc
-- [elthrasher/circular-layer](https://github.com/elthrasher/circular-layer/blob/master/.projenrc.js) - desc
-- [fsalamida/aws-report-signin](https://github.com/fsalamida/aws-report-signin/blob/master/.projenrc.js) - desc
+- [davidsung/eks-efs-cdk](https://github.com/davidsung/eks-efs-cdk/blob/main/.projenrc.js) - desc
+- [elthrasher/circular-layer](https://github.com/elthrasher/circular-layer/blob/main/.projenrc.js) - desc
+- [fsalamida/aws-report-signin](https://github.com/fsalamida/aws-report-signin/blob/main/.projenrc.js) - desc
 - [guan840912/aws-lambda-container-sample/cdk-lambda-container](https://github.com/guan840912/aws-lambda-container-sample/blob/main/cdk-lambda-container/.projenrc.js) - desc
-- [guan840912/cdk-containers-lab](https://github.com/guan840912/cdk-containers-lab/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-okd-311-infra](https://github.com/guan840912/cdk-okd-311-infra/blob/master/.projenrc.js) - desc
+- [guan840912/cdk-containers-lab](https://github.com/guan840912/cdk-containers-lab/blob/main/.projenrc.js) - desc
+- [guan840912/cdk-okd-311-infra](https://github.com/guan840912/cdk-okd-311-infra/blob/main/.projenrc.js) - desc
 - [guan840912/cdk-sample-save/aws-cdk-typescript/centosInstance](https://github.com/guan840912/blob/master/cdk-sample-save/aws-cdk-typescript/centosInstance/.projenrc.js) - desc
 - [guan840912/cdk-sample-save/aws-cdk-typescript/eks-console-view](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/eks-console-view/.projenrc.js) - desc
 - [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-container](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-container/.projenrc.js) - desc
 - [guan840912/cdk-sample-save/aws-cdk-typescript/lambda-s3-endpoint](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/lambda-s3-endpoint/.projenrc.js) - desc
 - [guan840912/cdk-sample-save/aws-cdk-typescript/testvpceip](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/testvpceip/.projenrc.js) - desc
-- [guan840912/cdk8s-cdk-example](https://github.com/guan840912/cdk8s-cdk-example/blob/master/.projenrc.js) - desc
-- [guan840912/ddt-techday-demo](https://github.com/guan840912/ddt-techday-demo/blob/master/.projenrc.js) - desc
-- [guan840912/rke2-eks-d-lab](https://github.com/guan840912/rke2-eks-d-lab/blob/master/.projenrc.js) - desc
-- [intercept6/cdk-module-division-example](https://github.com/intercept6/cdk-module-division-example/blob/master/.projenrc.js) - desc
-- [intercept6/sample-grpc-with-aws-alb](https://github.com/intercept6/sample-grpc-with-aws-alb/blob/master/.projenrc.js) - desc
+- [guan840912/cdk8s-cdk-example](https://github.com/guan840912/cdk8s-cdk-example/blob/main/.projenrc.js) - desc
+- [guan840912/ddt-techday-demo](https://github.com/guan840912/ddt-techday-demo/blob/main/.projenrc.js) - desc
+- [guan840912/rke2-eks-d-lab](https://github.com/guan840912/rke2-eks-d-lab/blob/main/.projenrc.js) - desc
+- [intercept6/cdk-module-division-example](https://github.com/intercept6/cdk-module-division-example/blob/main/.projenrc.js) - desc
+- [intercept6/sample-grpc-with-aws-alb](https://github.com/intercept6/sample-grpc-with-aws-alb/blob/main/.projenrc.js) - desc
 - [kcwinner/advocacy/cubejs-serverless-demo](https://github.com/kcwinner/advocacy/blob/master/cubejs-serverless-demo/.projenrc.js) - desc
-- [kcwinner/cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/master/.projenrc.js) - desc
-- [kirkchen/cdk-jenkins-with-dynamic-workers](https://github.com/kirkchen/cdk-jenkins-with-dynamic-workers/blob/master/.projenrc.js) - desc
-- [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/master/.projenrc.js) - desc
-- [martzcodes/blog-ts-request-validation](https://github.com/martzcodes/blog-ts-request-validation/blob/master/.projenrc.js) - desc
+- [kcwinner/cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/main/.projenrc.js) - desc
+- [kirkchen/cdk-jenkins-with-dynamic-workers](https://github.com/kirkchen/cdk-jenkins-with-dynamic-workers/blob/main/.projenrc.js) - desc
+- [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/main/.projenrc.js) - desc
+- [martzcodes/blog-ts-request-validation](https://github.com/martzcodes/blog-ts-request-validation/blob/main/.projenrc.js) - desc
 - [mbonig/cdk-published-listener](https://github.com/mbonig/cdk-published-listener/blob/master/.projenrc.js) - desc
 - [mmuller88/cdk-alps-constructs-demo](https://github.com/mmuller88/cdk-alps-constructs-demo/blob/master/.projenrc.js) - desc
 - [mmuller88/rasp4](https://github.com/mmuller88/rasp4/blob/master/.projenrc.js) - desc
-- [nikovirtala/cdk-preview-environments](https://github.com/nikovirtala/cdk-preview-environments/blob/master/.projenrc.js) - desc
-- [pahud/aws-cdk-eks-sample](https://github.com/pahud/aws-cdk-eks-sample/blob/master/.projenrc.js) - desc
-- [pahud/aws-cdk-fargate-sample](https://github.com/pahud/aws-cdk-fargate-sample/blob/master/.projenrc.js) - desc
+- [nikovirtala/cdk-preview-environments](https://github.com/nikovirtala/cdk-preview-environments/blob/main/.projenrc.js) - desc
+- [pahud/aws-cdk-eks-sample](https://github.com/pahud/aws-cdk-eks-sample/blob/main/.projenrc.js) - desc
+- [pahud/aws-cdk-fargate-sample](https://github.com/pahud/aws-cdk-fargate-sample/blob/main/.projenrc.js) - desc
 - [pahud/aws-cdk-serverless-sample](https://github.com/pahud/aws-cdk-serverless-sample/blob/master/.projenrc.js) - desc
-- [pahud/aws-cdk-spotone-sample](https://github.com/pahud/aws-cdk-spotone-sample/blob/master/.projenrc.js) - desc
-- [pahud/cdk-cfn-module-securebucket](https://github.com/pahud/cdk-cfn-module-securebucket/blob/master/.projenrc.js) - desc
-- [pahud/ddt-techday-demo](https://github.com/pahud/ddt-techday-demo/blob/master/.projenrc.js) - desc
+- [pahud/aws-cdk-spotone-sample](https://github.com/pahud/aws-cdk-spotone-sample/blob/main/.projenrc.js) - desc
+- [pahud/cdk-cfn-module-securebucket](https://github.com/pahud/cdk-cfn-module-securebucket/blob/main/.projenrc.js) - desc
+- [pahud/ddt-techday-demo](https://github.com/pahud/ddt-techday-demo/blob/main/.projenrc.js) - desc
 - [pahud/docker-awscli](https://github.com/pahud/docker-awscli/blob/master/.projenrc.js) - desc
 - [pahud/eks-cdk8s-refarch](https://github.com/pahud/eks-cdk8s-refarch/blob/master/.projenrc.js) - desc
 - [pahud/eks-lambda-py](https://github.com/pahud/eks-lambda-py/blob/master/.projenrc.js) - desc
-- [pahud/fargate-global](https://github.com/pahud/fargate-global/blob/master/.projenrc.js) - desc
-- [pahud/fargate-service-single-task](https://github.com/pahud/fargate-service-single-task/blob/master/.projenrc.js) - desc
+- [pahud/fargate-global](https://github.com/pahud/fargate-global/blob/main/.projenrc.js) - desc
+- [pahud/fargate-service-single-task](https://github.com/pahud/fargate-service-single-task/blob/main/.projenrc.js) - desc
 - [pahud/lambda-gin-refarch](https://github.com/pahud/lambda-gin-refarch/blob/master/.projenrc.js) - desc
 - [pahud/svs327-reinvent2019](https://github.com/pahud/svs327-reinvent2019/blob/master/.projenrc.js) - desc
 - [pgarbe/cdk-stackset](https://github.com/pgarbe/cdk-stackset/blob/master/.projenrc.js) - desc
 - [pszabop/cdk-vpc-export-import-test](https://github.com/pszabop/cdk-vpc-export-import-test/blob/master/.projenrc.js) - desc
-- [rogerchi/vns-pdf-gen](https://github.com/rogerchi/vns-pdf-gen/blob/master/.projenrc.js) - desc
+- [rogerchi/vns-pdf-gen](https://github.com/rogerchi/vns-pdf-gen/blob/main/.projenrc.js) - desc
 - [stefanfreitag/csv-to-heartbeat-yml/cdk](https://github.com/stefanfreitag/csv-to-heartbeat-yml/blob/master/cdk/.projenrc.js) - Converts CSV data to heartbeat yml files.
 - [stefanfreitag/helloWorldLambda](https://github.com/stefanfreitag/helloWorldLambda/blob/master/.projenrc.js) - Hello World application using an AWS API Gateway and Lambda function.
 - [titanjer/cdk-lambda-edge](https://github.com/titanjer/cdk-lambda-edge/blob/master/.projenrc.js) - lambda@edge to validate app version in request user-agent.
@@ -159,7 +159,7 @@ Define and maintain complex project configuration through code.
 - [NomadBlacky/hello-cdk-lib](https://github.com/NomadBlacky/hello-cdk-lib/blob/master/.projenrc.js) - desc
 - [SnapPetal/cdk-cloudfront-deploy](https://github.com/SnapPetal/cdk-cloudfront-deploy/blob/main/.projenrc.js) - desc
 - [StErMi/cdk-website](https://github.com/StErMi/cdk-website/blob/main/.projenrc.js) - desc
-- [bgreengo/cdk-noob](https://github.com/bgreengo/cdk-noob/blob/master/.projenrc.js) - desc
+- [bgreengo/cdk-noob](https://github.com/bgreengo/cdk-noob/blob/main/.projenrc.js) - desc
 - [cerealcoder/aws-cdk-serverless-timer](https://github.com/cerealcoder/aws-cdk-serverless-timer/blob/master/.projenrc.js) - desc
 - [clarencetw/cdk-sns-notify](https://github.com/clarencetw/cdk-sns-notify/blob/master/.projenrc.js) - desc
 - [clarencetw/cdk-wordpress](https://github.com/clarencetw/cdk-wordpress/blob/master/.projenrc.js) - desc
@@ -169,18 +169,18 @@ Define and maintain complex project configuration through code.
 - [guan840912/cdk-aurora-globaldatabase](https://github.com/guan840912/cdk-aurora-globaldatabase/blob/master/.projenrc.js) - desc
 - [guan840912/cdk-events-notify](https://github.com/guan840912/cdk-events-notify/blob/main/.projenrc.js) - desc
 - [guan840912/cdk-gitlab-runner](https://github.com/guan840912/cdk-gitlab-runner/blob/master/.projenrc.js) - desc
-- [guan840912/cdk-gitlab](https://github.com/guan840912/cdk-gitlab/blob/master/.projenrc.js) - desc
+- [guan840912/cdk-gitlab](https://github.com/guan840912/cdk-gitlab/blob/main/.projenrc.js) - desc
 - [guan840912/cdk-s3bucket](https://github.com/guan840912/cdk-s3bucket/blob/main/.projenrc.js) - desc
 - [guan840912/cdk-sample-save/aws-cdk-typescript/resource-overwrite-ecs-sample](https://github.com/guan840912/cdk-sample-save/blob/master/aws-cdk-typescript/resource-overwrite-ecs-sample/.projenrc.js) - desc
-- [guan840912/secure-bucket](https://github.com/guan840912/secure-bucket/blob/master/.projenrc.js) - desc
+- [guan840912/secure-bucket](https://github.com/guan840912/secure-bucket/blob/main/.projenrc.js) - desc
 - [hayao-k/cdk-ecr-image-scan-notify](https://github.com/hayao-k/cdk-ecr-image-scan-notify/blob/main/.projenrc.js) - desc
 - [jogold/cloudstructs](https://github.com/jogold/cloudstructs/blob/master/.projenrc.js) - desc
 - [jogold/sqs-redrive](https://github.com/jogold/sqs-redrive/blob/master/.projenrc.js) - desc
-- [jossaq/joq-demo-back](https://github.com/jossaq/joq-demo-back/blob/master/.projenrc.js) - desc
+- [jossaq/joq-demo-back](https://github.com/jossaq/joq-demo-back/blob/main/.projenrc.js) - desc
 - [jossaq/jossaq-demo-backend](https://github.com/jossaq/jossaq-demo-backend/blob/master/.projenrc.js) - desc
 - [jossaq/jossaq-demo-front](https://github.com/jossaq/jossaq-demo-front/blob/master/.projenrc.js) - desc
 - [kcwinner/cdk-appsync-transformer](https://github.com/kcwinner/cdk-appsync-transformer/blob/main/.projenrc.js) - desc
-- [kcwinner/cdk-bucket-deployment-expirator](https://github.com/kcwinner/cdk-bucket-deployment-expirator/blob/master/.projenrc.js) - desc
+- [kcwinner/cdk-bucket-deployment-expirator](https://github.com/kcwinner/cdk-bucket-deployment-expirator/blob/main/.projenrc.js) - desc
 - [kirkchen/cdk-image-builder-patterns](https://github.com/kirkchen/cdk-image-builder-patterns/blob/main/.projenrc.js) - desc
 - [klee310/cdk-gitlab-runner](https://github.com/klee310/cdk-gitlab-runner/blob/master/.projenrc.js) - desc
 - [markusl/cdk-codepipeline-bitbucket-build-result-reporter](https://github.com/markusl/cdk-codepipeline-bitbucket-build-result-reporter/blob/master/.projenrc.js) - desc
