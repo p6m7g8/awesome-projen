@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.15](https://github.com/p6m7g8/awesome-projen/compare/v0.0.14...v0.0.15) (2020-12-24)
+
+
+### Bug Fixes
+
+* links in AwsCdkTypeScriptApp ([#24](https://github.com/p6m7g8/awesome-projen/issues/24)) ([2599157](https://github.com/p6m7g8/awesome-projen/commit/259915725cc69f609aae797f4eb38659799e6607))
+
 ### [0.0.14](https://github.com/p6m7g8/awesome-projen/compare/v0.0.13...v0.0.14) (2020-12-24)
 
 
