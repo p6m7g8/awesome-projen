@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.18](https://github.com/p6m7g8/awesome-projen/compare/v0.0.17...v0.0.18) (2020-12-24)
+
+
+### Bug Fixes
+
+* more links ([#27](https://github.com/p6m7g8/awesome-projen/issues/27)) ([747a771](https://github.com/p6m7g8/awesome-projen/commit/747a7716ebd77489cc54caf118852e34182531cf))
+
 ### [0.0.17](https://github.com/p6m7g8/awesome-projen/compare/v0.0.16...v0.0.17) (2020-12-24)
 
 
