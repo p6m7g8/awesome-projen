@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.25](https://github.com/p6m7g8/awesome-projen/compare/v0.0.24...v0.0.25) (2020-12-26)
+
+
+### Features
+
+* p6-projen-project-awesome-list - rojen for Awesome List per its standards, replaces `yeoman`. ([#34](https://github.com/p6m7g8/awesome-projen/issues/34)) ([4a3bd2d](https://github.com/p6m7g8/awesome-projen/commit/4a3bd2dfe6c460e2c919941054b4cf51bafe408d))
+
 ### [0.0.24](https://github.com/p6m7g8/awesome-projen/compare/v0.0.23...v0.0.24) (2020-12-26)
 
 
