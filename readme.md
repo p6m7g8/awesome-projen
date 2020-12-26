@@ -9,6 +9,7 @@ Define and maintain complex project configuration through code.
 - [Training Materials and Sample Code](#training-materials-and-sample-code)
 - [Blog Posts & Talks](#blog-posts--talks)
 - [Social Media](#social-media)
+- [Tips and Tricks](#tips-and-tricks)
 - [External Project Types](#external-project-types)
 - [Projects using Projen](#projects-using-projen)
   - [Official](#official)
@@ -33,6 +34,10 @@ Define and maintain complex project configuration through code.
 ## Social Media
 
 - [#projen](https://twitter.com/hashtag/projen?lang=en) - Hash #projen tag on Twitter.
+
+## Tips and Tricks
+
+- Philip M. Gollucci's ohmyzsh [Plugin](https://github.com/ohmyzsh/ohmyzsh/pull/9407)
 
 ## External Project Types
 
