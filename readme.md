@@ -46,6 +46,7 @@ Define and maintain complex project configuration through code.
 - [guillaumemaka/of-node-projen](https://github.com/guillaumemaka/of-node-projen/blob/main/.projenrc.js) - Open FaaS Node Project.
 - [neva-argueta/custom-awscdk-app-ts](https://github.com/neva-argueta/custom-awscdk-app-ts/blob/master/.projenrc.js) -  Aws cdk project with a test stack and lambda function using webpack bundler and other features.
 - [taimos/taimos-projen](https://github.com/taimos/taimos-projen/blob/main/.projenrc.js) - CDK App, CDK Construct, Ts Lib.
+- [p6m7g8/p6-projen-project-awesome-list](https://github.com/p6m7g8/p6-projen-project-awesome-list) - Projen for Awesome List per its standards, replaces `yeoman`.
 
 ## Projects using Projen
 
