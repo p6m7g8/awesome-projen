@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.24](https://github.com/p6m7g8/awesome-projen/compare/v0.0.23...v0.0.24) (2020-12-26)
+
+
+### Features
+
+* add ohmyzsh projen plugin ([#33](https://github.com/p6m7g8/awesome-projen/issues/33)) ([b443560](https://github.com/p6m7g8/awesome-projen/commit/b4435609ed2afedf11980be9757c275584be3c35))
+
 ### [0.0.23](https://github.com/p6m7g8/awesome-projen/compare/v0.0.22...v0.0.23) (2020-12-24)
 
 
