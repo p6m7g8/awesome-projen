@@ -1,6 +1,5 @@
 {
   "name": "awesome-projen",
-  "bin": {},
   "scripts": {
     "projen": "npx projen",
     "start": "npx projen start",
@@ -19,15 +18,13 @@
   "devDependencies": {
     "jest": "^26.6.3",
     "jest-junit": "^12",
-    "projen": "^0.9.3",
+    "projen": "^0.12.2",
     "standard-version": "^9.0.0"
   },
-  "peerDependencies": {},
   "dependencies": {
     "awesome-lint": "^0.17.1"
   },
   "bundledDependencies": [],
-  "keywords": [],
   "main": "lib/index.js",
   "license": "Apache-2.0",
   "version": "0.0.27",
