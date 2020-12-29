@@ -36,12 +36,25 @@
     "compile": {
       "name": "compile",
       "category": "00.build",
-      "description": "Only compile"
+      "description": "Only compile",
+      "steps": [
+        {
+          "exec": "jsii --silence-warnings=reserved-word --no-fix-peer-dependencies"
+        },
+        {
+          "spawn": "docgen"
+        }
+      ]
     },
     "test:compile": {
       "name": "test:compile",
       "category": "10.test",
-      "description": "compiles the test code"
+      "description": "compiles the test code",
+      "steps": [
+        {
+          "exec": "tsc --noEmit --project tsconfig.jest.json"
+        }
+      ]
     },
     "test": {
       "name": "test",
@@ -49,17 +62,37 @@
       "description": "Run tests",
       "steps": [
         {
+          "exec": "rm -fr lib/"
+        },
+        {
           "spawn": "test:compile"
         },
         {
           "exec": "jest --passWithNoTests --all --updateSnapshot"
+        },
+        {
+          "spawn": "eslint"
         }
       ]
     },
     "build": {
       "name": "build",
       "category": "00.build",
-      "description": "Full release build (test+compile)"
+      "description": "Full release build (test+compile)",
+      "steps": [
+        {
+          "exec": "( PATH=\"$(npx -c 'node -e \"console.log(process.env.PATH)\"')\";  ( npx awesome-lint ) )"
+        },
+        {
+          "spawn": "test"
+        },
+        {
+          "spawn": "compile"
+        },
+        {
+          "spawn": "package"
+        }
+      ]
     },
     "bump": {
       "name": "bump",
@@ -116,6 +149,56 @@
         },
         {
           "exec": "CI=\"\" yarn projen"
+        }
+      ]
+    },
+    "watch": {
+      "name": "watch",
+      "category": "00.build",
+      "description": "Watch & compile in the background",
+      "steps": [
+        {
+          "exec": "jsii -w --silence-warnings=reserved-word --no-fix-peer-dependencies"
+        }
+      ]
+    },
+    "package": {
+      "name": "package",
+      "category": "20.release",
+      "description": "Create an npm tarball",
+      "steps": [
+        {
+          "exec": "jsii-pacmak"
+        }
+      ]
+    },
+    "eslint": {
+      "name": "eslint",
+      "category": "10.test",
+      "description": "Runs eslint against the codebase",
+      "steps": [
+        {
+          "exec": "eslint --ext .ts,.tsx --fix --no-error-on-unmatched-pattern src test .projenrc.js"
+        }
+      ]
+    },
+    "compat": {
+      "name": "compat",
+      "category": "20.release",
+      "description": "Perform API compatibility check against latest version",
+      "steps": [
+        {
+          "exec": "jsii-diff npm:$(node -p \"require('./package.json').name\") -k --ignore-file .compatignore || (echo \"\nUNEXPECTED BREAKING CHANGES: add keys such as 'removed:constructs.Node.of' to .compatignore to skip.\n\" && exit 1)"
+        }
+      ]
+    },
+    "docgen": {
+      "name": "docgen",
+      "category": "20.release",
+      "description": "Generate API.md from .jsii manifest",
+      "steps": [
+        {
+          "exec": "jsii-docgen"
         }
       ]
     },

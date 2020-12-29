@@ -39,6 +39,10 @@ jspm_packages/
 /test-reports/
 junit.xml
 /coverage
+/lib
+/dist
+.jsii
+tsconfig.json
 !/.projen/tasks.json
 !/.projen/deps.json
 !/.gitpod.yml
@@ -55,3 +59,7 @@ junit.xml
 !/.github/dependabot.yml
 !/.github/pull_request_template.md
 !/.github/workflows/rebuild-bot.yml
+!/src
+!/tsconfig.jest.json
+!/.eslintrc.json
+!/API.md
