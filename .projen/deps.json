@@ -74,7 +74,7 @@
     },
     {
       "name": "p6-projen-project-awesome-list",
-      "version": "^0.0.16",
+      "version": "^0.0.17",
       "type": "build"
     },
     {
