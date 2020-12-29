@@ -40,3 +40,22 @@ jobs:
         with:
           name: dist
           path: dist
+    container:
+      image: jsii/superchain
+  release_npm:
+    name: Release to NPM
+    needs: build
+    runs-on: ubuntu-latest
+    container:
+      image: jsii/superchain
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v1
+        with:
+          name: dist
+      - name: Release
+        run: npx -p jsii-release jsii-release-npm
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_DIST_TAG: latest
+          NPM_REGISTRY: registry.npmjs.org
