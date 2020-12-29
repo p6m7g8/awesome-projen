@@ -3,10 +3,9 @@ const { AwesomeList } = require('p6-projen-project-awesome-list');
 const project = new AwesomeList({
   author: 'Philip M. Gollucci',
   authorAddress: 'pgollucci@p6m7g8.com',
-  devDeps: ['p6-projen-project-awesome-list@^0.0.16'],
+  devDeps: ["p6-projen-project-awesome-list@^0.0.17"],
   name: 'awesome-projen',
   repositoryUrl: 'https://github.com/p6m7g8/awesome-projen.git',
-  contactEmail: 'pgollucci+coc@p6m7g8.com',
 
   /* AwesomeListProjectOptions */
   // contactEmail: undefined,                                                  /* What e-mail address to list for the Code of Conduct Point of Contact. */
