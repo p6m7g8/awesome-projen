@@ -48,7 +48,7 @@
     "jsii-release": "^0.2.9",
     "json-schema": "^0.2.5",
     "p6-projen-project-awesome-list": "^0.0.17",
-    "projen": "^0.12.2",
+    "projen": "^0.12.6",
     "standard-version": "^9.0.0",
     "ts-jest": "^26.4.4",
     "typescript": "^3.9.5"
