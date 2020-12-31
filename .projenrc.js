@@ -3,7 +3,7 @@ const { AwesomeList } = require('p6-projen-project-awesome-list');
 const project = new AwesomeList({
   author: 'Philip M. Gollucci',
   authorAddress: 'pgollucci@p6m7g8.com',
-  devDeps: ["p6-projen-project-awesome-list@^0.0.17"],
+  devDeps: ["p6-projen-project-awesome-list@^0.0.22"],
   name: 'awesome-projen',
   repositoryUrl: 'https://github.com/p6m7g8/awesome-projen.git',
 
