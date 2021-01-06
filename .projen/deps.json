@@ -74,12 +74,11 @@
     },
     {
       "name": "p6-projen-project-awesome-list",
-      "version": "^0.0.22",
       "type": "build"
     },
     {
       "name": "projen",
-      "version": "^0.12.8",
+      "version": "^0.13.8",
       "type": "build"
     },
     {
