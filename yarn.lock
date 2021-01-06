@@ -5161,13 +5161,13 @@ p-try@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
-p6-projen-project-awesome-list@^0.0.24:
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/p6-projen-project-awesome-list/-/p6-projen-project-awesome-list-0.0.24.tgz#7f0c0bcbc044de77fc365b68834dc86e9a256acc"
-  integrity sha512-xMjdWCOhIitTBywWIQo7pn2p+9i9nZ+TAmAACctIVeWhsIL0o+NG1BnbVsoprb+V5P3N2e3wdnb3M6IHhztKKA==
+p6-projen-project-awesome-list@^0.0.22:
+  version "0.0.22"
+  resolved "https://registry.yarnpkg.com/p6-projen-project-awesome-list/-/p6-projen-project-awesome-list-0.0.22.tgz#d32a17a898ee571beb218de7af3cbc0f04ea9b46"
+  integrity sha512-ixrkhCgqtbS1wG9xHyhSVQpyQokZb9/ZDtt4cbND6DpBigUgC/YMc8xi/3JL7n1KxgT6Qrh7N/omOx3uhouTFA==
   dependencies:
     fs-extra "^9.0.1"
-    projen "^0.13.6"
+    projen "^0.12.8"
 
 parent-module@^1.0.0:
   version "1.0.1"
@@ -5418,7 +5418,7 @@ progress@^2.0.0:
   resolved "https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-projen@^0.12.15:
+projen@^0.12.8:
   version "0.12.15"
   resolved "https://registry.yarnpkg.com/projen/-/projen-0.12.15.tgz#810ba90d46df385df05ea9d53db2fbc628fe3f09"
   integrity sha512-VHpQHoHbg2bedQc3B5vpdyyLxbhchZwo91yXlhO6aHJW2EhudIDMzjx57WAfSMwEvAtI1slLVjcUU6ivrerM9w==
@@ -5433,7 +5433,7 @@ projen@^0.12.15:
     yaml "^1.10.0"
     yargs "^16.1.1"
 
-projen@^0.13.6:
+projen@^0.13.8:
   version "0.13.8"
   resolved "https://registry.yarnpkg.com/projen/-/projen-0.13.8.tgz#25d217733c95c46b66801dc227a8208e9b7deaa8"
   integrity sha512-QDGe8ZAzlNnfpziS8kZOGi48dbosRJuIgCFpvjRu30USEiOhNxT3G44MoRkHEsxxjfSMGvwmIMx3lJZRWOnv4Q==

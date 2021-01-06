@@ -47,8 +47,8 @@
     "jsii-pacmak": "^1.16.0",
     "jsii-release": "^0.2.9",
     "json-schema": "^0.2.5",
-    "p6-projen-project-awesome-list": "^0.0.24",
-    "projen": "^0.12.15",
+    "p6-projen-project-awesome-list": "^0.0.22",
+    "projen": "^0.13.8",
     "standard-version": "^9.0.0",
     "ts-jest": "^26.4.4",
     "typescript": "^3.9.5"
@@ -58,8 +58,18 @@
   "license": "Apache-2.0",
   "version": "0.0.30",
   "jest": {
+    "testMatch": [
+      "**/__tests__/**/*.ts?(x)",
+      "**/?(*.)+(spec|test).ts?(x)"
+    ],
     "clearMocks": true,
     "collectCoverage": true,
+    "coverageReporters": [
+      "json",
+      "lcov",
+      "clover",
+      "text"
+    ],
     "coverageDirectory": "coverage",
     "coveragePathIgnorePatterns": [
       "/node_modules/"
@@ -67,9 +77,8 @@
     "testPathIgnorePatterns": [
       "/node_modules/"
     ],
-    "testMatch": [
-      "**/__tests__/**/*.ts?(x)",
-      "**/?(*.)+(spec|test).ts?(x)"
+    "watchPathIgnorePatterns": [
+      "/node_modules/"
     ],
     "reporters": [
       "default",
