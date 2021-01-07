@@ -211,4 +211,4 @@ Define and maintain complex project configuration through code.
 - [terraform-cdk-providers/cdktf-provider-null](https://github.com/terraform-cdk-providers/cdktf-provider-null/blob/master/.projenrc.js) - CDKTF Null Provider.
 
 ### Subproject
-- [cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo)
+- [cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/main/.projenrc.js)
