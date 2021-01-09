@@ -122,7 +122,6 @@ Define and maintain complex project configuration through code.
 - [guan840912/ddt-techday-demo](https://github.com/guan840912/ddt-techday-demo/blob/main/.projenrc.js) - DDT Tech Day Demo CDK Part.
 - [guan840912/rke2-eks-d-lab](https://github.com/guan840912/rke2-eks-d-lab/blob/main/.projenrc.js) - rke2 featuring eks-d cdk sample project.
 - [kcwinner/advocacy/cubejs-serverless-demo](https://github.com/kcwinner/advocacy/blob/master/cubejs-serverless-demo/.projenrc.js) - Cube.js Serverless Demo.
-- [kcwinner/cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/main/.projenrc.js) - CDK Appsync Transformer React Demo.
 - [kirkchen/cdk-jenkins-with-dynamic-workers](https://github.com/kirkchen/cdk-jenkins-with-dynamic-workers/blob/main/.projenrc.js) - CDK - Jenkins with dynamic worker - Stateless Jenkins leader on AWS Fargate with on-demand Windows and Linux workers.
 - [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/main/.projenrc.js) - OpenAPI Specs from CDK Stack WITHOUT Deploying First.
 - [martzcodes/blog-ts-request-validation](https://github.com/martzcodes/blog-ts-request-validation/blob/main/.projenrc.js) - How to Automatically Generate Request Models from TypeScript Interfaces.
@@ -211,4 +210,5 @@ Define and maintain complex project configuration through code.
 - [terraform-cdk-providers/cdktf-provider-null](https://github.com/terraform-cdk-providers/cdktf-provider-null/blob/master/.projenrc.js) - CDKTF Null Provider.
 
 ### Subproject
+
 - [cdk-appsync-react-demo](https://github.com/kcwinner/cdk-appsync-react-demo/blob/main/.projenrc.js)
