@@ -178,6 +178,7 @@ Define and maintain complex project configuration through code.
 - [mmuller88/aws-cdk-ssm-parameter](https://github.com/mmuller88/aws-cdk-ssm-parameter/blob/master/.projenrc.js) - AWS CDK Construct for get the value of an SSM parameter. If the parameter doesn't exist, it will be created. The implementation simply leverages AwsCustomResource as an SDK wrapper.
 - [mmuller88/cdk-alps-graph-ql](https://github.com/mmuller88/cdk-alps-graph-ql/blob/main/.projenrc.js) - Generates an AWS Graph QL out of an ALPS API yaml file.
 - [mmuller88/cdk-alps-spec-rest-api](https://github.com/mmuller88/cdk-alps-spec-rest-api/blob/main/.projenrc.js) - Generates an AWS API Gateway out of an ALPS API yaml.
+- [mmuller88/aws-cdk-build-badge](https://github.com/mmuller88/aws-cdk-build-badge/blob/main/.projenrc.js) - Thats is an AWS CDK custom construct for retrieving a CodeBuild project status.
 - [p6m7g8/p6-barrier](https://github.com/p6m7g8/p6-barrier/blob/master/.projenrc.js) - P6Barrier is an AWS CDK Construct that deploys a Custom Resource which will poll until AWS Lambda Function isReady returns true. Ideal for running code AFTER an RDS or EKS is ready.
 - [p6m7g8/p6-namer](https://github.com/p6m7g8/p6-namer/blob/master/.projenrc.js) - Sets the AWS IAM Account Alias with a Custom Resource.
 - [pahud/awscdk-run](https://github.com/pahud/awscdk-run/blob/main/.projenrc.js) - 1-Click AWS CDK Deploy like CloudFormation.
