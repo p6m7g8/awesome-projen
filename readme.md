@@ -199,7 +199,7 @@ Define and maintain complex project configuration through code.
 - [stefanfreitag/cdk-budget-notifier](https://github.com/stefanfreitag/cdk-budget-notifier/blob/master/.projenrc.js) - Simple AWS budget notifier.
 - [stefanfreitag/gradle_uploader](https://github.com/stefanfreitag/gradle_uploader/blob/master/.projenrc.js) - Uploads new Gradle versions to an S3 bucket.
 - [wheatstalk/cdk-ecs-website](https://github.com/wheatstalk/cdk-ecs-website/blob/master/.projenrc.js) - Construct creates an ECS service following a shared ALB pattern.
-- [hariohmprasath/scaled-test-execution](https://github.com/hariohmprasath/scaled-test-execution/blob/main/.projenrc.js) - Construct that creates fargate spot scaled selenium hub with chrome and firefox nodes, that can help customers run integration and regression tests quicker and cheaper to improve the CI/CD process.
+- [hariohmprasath/scaled-test-execution](https://github.com/hariohmprasath/scaled-test-execution/blob/main/.projenrc.js) - Construct that creates scaling hub (scaled using fargate spot) with chrome and firefox nodes, that can help customers run integration and regression tests quicker and cheaper to improve the CI/CD process.
 - [hariohmprasath/ecs-event-driven-scaling](https://github.com/hariohmprasath/ecs-event-driven-scaling/blob/master/.projenrc.js) - Construct that creates an autoscaling SQS consumer (Fargate based) deployed in container-based ecosystem using ECS
 
 ### CdktfProviderProject
