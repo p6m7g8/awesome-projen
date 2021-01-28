@@ -70,6 +70,7 @@ Define and maintain complex project configuration through code.
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/blob/main/.projenrc.js) - This awesome list.
 
 ### NodeProject
+- [mmuller88/influxdb-s3-backup](https://github.com/mmuller88/influxdb-s3-backup) - A docker image based on InfluxDB and enhanced with awc cli + backupscripts which is runnable on arm64 (raspberries) as well.
 
 ### JsiiProject
 
