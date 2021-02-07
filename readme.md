@@ -128,7 +128,8 @@ Define and maintain complex project configuration through code.
 - [martzcodes/blog-cdk-openapi](https://github.com/martzcodes/blog-cdk-openapi/blob/main/.projenrc.js) - OpenAPI Specs from CDK Stack WITHOUT Deploying First.
 - [martzcodes/blog-ts-request-validation](https://github.com/martzcodes/blog-ts-request-validation/blob/main/.projenrc.js) - How to Automatically Generate Request Models from TypeScript Interfaces.
 - [mbonig/cdk-published-listener](https://github.com/mbonig/cdk-published-listener/blob/master/.projenrc.js) - Listens for CDK publishing to an SNS topic and sends you an e-mail.
-- [mmuller88/aws-api-gw-petstore-example](https://github.com/mmuller88/aws-api-gw-petstore-example/blob/master/.projenrc.js)
+- [mmuller88/aws-api-gw-petstore-example](https://github.com/mmuller88/aws-api-gw-petstore-example/blob/master/.projenrc.js) - A cool AWS API Gateway petstore example with a cdk staging pipeline
+- [mmuller88/aws-cdk-todolist](https://github.com/mmuller88/aws-cdk-todolist/blob/master/.projenrc.js) - An AWS CDK todolist backend using appsync and dynamodb
 - [mmuller88/cdk-alps-constructs-demo](https://github.com/mmuller88/cdk-alps-constructs-demo/blob/master/.projenrc.js) - API Gateway and GraphQL generated out of the ALPS spec src/todo-alps.yaml.
 - [mmuller88/rasp4](https://github.com/mmuller88/rasp4/blob/master/.projenrc.js) - Remote control my Raspberry 4 via AWS CodeDeploy & AWS CDK.
 - [nikovirtala/cdk-preview-environments](https://github.com/nikovirtala/cdk-preview-environments/blob/main/.projenrc.js) - Pull Request Preview Environments with AWS CDK and GitHub Actions.
