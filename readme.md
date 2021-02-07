@@ -25,6 +25,7 @@ Define and maintain complex project configuration through code.
 ## Training Materials and Sample Code
 
 - Pahud Hsieh's YouTube [Tutorial](https://youtu.be/cTsSXYOYQPw).
+- [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) - A step-by-step guide with sample code to create a new CDK construct using `projen` and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
 
 ## Blog Posts & Talks
 
