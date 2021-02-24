@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.32](https://github.com/p6m7g8/awesome-projen/compare/v0.0.31...v0.0.32) (2021-02-24)
+
+
+### Features
+
+* frontend ui Todolist example  ([#119](https://github.com/p6m7g8/awesome-projen/issues/119)) ([d4c28f8](https://github.com/p6m7g8/awesome-projen/commit/d4c28f87af3d198719d35a88fb4c5bdf0a8bbf28)), closes [#98](https://github.com/p6m7g8/awesome-projen/issues/98)
+
 ### [0.0.31](https://github.com/p6m7g8/awesome-projen/compare/v0.0.30...v0.0.31) (2021-02-24)
 
 
