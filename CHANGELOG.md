@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.31](https://github.com/p6m7g8/awesome-projen/compare/v0.0.30...v0.0.31) (2021-02-24)
+
+
+### Features
+
+* **blog:** add https://dev.to/aws-builders/projen-the-next-cdk-suprise-13b2 ([#59](https://github.com/p6m7g8/awesome-projen/issues/59)) ([89e91d9](https://github.com/p6m7g8/awesome-projen/commit/89e91d9b40d5fea271e96cfc951a6b000529e27c))
+* a new construct from me ([#68](https://github.com/p6m7g8/awesome-projen/issues/68)) ([bd3adaa](https://github.com/p6m7g8/awesome-projen/commit/bd3adaa73178d75aa3d774bc1946710974c4feac))
+* Add a new project from me ([#97](https://github.com/p6m7g8/awesome-projen/issues/97)) ([44ec1b1](https://github.com/p6m7g8/awesome-projen/commit/44ec1b1c053beb9d1d8882e56a653b35e7a166a8))
+* add projen docker release project ([#86](https://github.com/p6m7g8/awesome-projen/issues/86)) ([f557dbc](https://github.com/p6m7g8/awesome-projen/commit/f557dbc081cb2a17cbeda8ca2f9aa168c6bc592f))
+* add subproject section ([#65](https://github.com/p6m7g8/awesome-projen/issues/65)) ([358e8c8](https://github.com/p6m7g8/awesome-projen/commit/358e8c802a669eaf7099e6b97132f675ca03a901))
+* add two more projects from Martin Muller ([#60](https://github.com/p6m7g8/awesome-projen/issues/60)) ([a4b45b8](https://github.com/p6m7g8/awesome-projen/commit/a4b45b83b282ecd9dee15f74d19bf93ed3c37820))
+* New training material for publishing CDK construct using projen + jsii ([#93](https://github.com/p6m7g8/awesome-projen/issues/93)) ([63f25f0](https://github.com/p6m7g8/awesome-projen/commit/63f25f06127ada6719cbca7ca4e49e1572c1a0fe))
+
+
+### Bug Fixes
+
+* duplicate link ([#69](https://github.com/p6m7g8/awesome-projen/issues/69)) ([dd87576](https://github.com/p6m7g8/awesome-projen/commit/dd8757662fea341cf1ecdb581c68a029a3d96d11))
+* **lint:** adds 3 missing periods ([#98](https://github.com/p6m7g8/awesome-projen/issues/98)) ([4f094b6](https://github.com/p6m7g8/awesome-projen/commit/4f094b6aefd3f8761c53a0b75cee6c6e31843371))
+
 ### [0.0.30](https://github.com/p6m7g8/awesome-projen/compare/v0.0.29...v0.0.30) (2020-12-29)
 
 ### [0.0.29](https://github.com/p6m7g8/awesome-projen/compare/v0.0.28...v0.0.29) (2020-12-28)
