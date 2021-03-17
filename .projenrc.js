@@ -99,4 +99,6 @@ const project = new AwesomeList({
   // readme: undefined,                                                        /* The README setup. */
 });
 
+project.gitignore.exclude('.node-version');
+
 project.synth();
