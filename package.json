@@ -5,8 +5,6 @@
     "url": "https://github.com/p6m7g8/awesome-projen.git"
   },
   "scripts": {
-    "projen": "npx projen",
-    "start": "npx projen start",
     "clobber": "npx projen clobber",
     "compile": "npx projen compile",
     "test:compile": "npx projen test:compile",
@@ -22,7 +20,9 @@
     "eslint": "npx projen eslint",
     "compat": "npx projen compat",
     "docgen": "npx projen docgen",
-    "awesome-lint": "npx projen awesome-lint"
+    "awesome-lint": "npx projen awesome-lint",
+    "projen": "npx projen",
+    "start": "npx projen start"
   },
   "author": {
     "name": "Philip M. Gollucci",
@@ -46,8 +46,8 @@
     "jsii-docgen": "^1.8.11",
     "jsii-pacmak": "^1.16.0",
     "json-schema": "^0.3.0",
-    "p6-projen-project-awesome-list": "^0.1.1",
-    "projen": "^0.17.6",
+    "p6-projen-project-awesome-list": "^0.1.10",
+    "projen": "^0.17.25",
     "standard-version": "^9",
     "ts-jest": "^26.4.4",
     "typescript": "^3.9.5"
