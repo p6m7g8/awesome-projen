@@ -52,6 +52,8 @@
     "ts-jest": "^26.4.4",
     "typescript": "^3.9.5"
   },
+  "peerDependencies": {},
+  "dependencies": {},
   "bundledDependencies": [],
   "main": "lib/index.js",
   "license": "Apache-2.0",
