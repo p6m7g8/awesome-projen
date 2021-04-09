@@ -40,7 +40,7 @@ Define and maintain complex project configuration through code.
 
 ## Tips and Tricks
 
-- Philip M. Gollucci's ohmyzsh [Plugin](https://github.com/ohmyzsh/ohmyzsh/pull/9407)
+- Philip M. Gollucci's ohmyzsh [Plugin](https://github.com/ohmyzsh/ohmyzsh/pull/9802)
 
 ## External Project Types
 
