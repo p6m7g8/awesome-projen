@@ -5440,6 +5440,24 @@ projen@^0, projen@^0.17.65:
   version "0.17.65"
   resolved "https://registry.yarnpkg.com/projen/-/projen-0.17.65.tgz#b2d6b6bb839fc2992a93868b89ba40a784ac5324"
   integrity sha512-NzlSaCqbB/RpUAQzSD0pb71apJPmNr2Rxn//6jwzMzeZ5Ej7Cmsk9hKiWl/5v0iU51W27XBicrMnFUM851vcFw==
+
+  dependencies:
+    "@iarna/toml" "^2.2.5"
+    chalk "^4.1.0"
+    decamelize "^4.0.0"
+    fs-extra "^9.0.1"
+    glob "^7"
+    ini "^2.0.0"
+    inquirer "^7.3.3"
+    semver "^7.3.2"
+    xmlbuilder2 "^2.4.0"
+    yaml "^1.10.0"
+    yargs "^16.2.0"
+
+projen@^0.17.65:
+  version "0.17.65"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.17.65.tgz#b2d6b6bb839fc2992a93868b89ba40a784ac5324"
+  integrity sha512-NzlSaCqbB/RpUAQzSD0pb71apJPmNr2Rxn//6jwzMzeZ5Ej7Cmsk9hKiWl/5v0iU51W27XBicrMnFUM851vcFw==
   dependencies:
     "@iarna/toml" "^2.2.5"
     chalk "^4.1.0"
