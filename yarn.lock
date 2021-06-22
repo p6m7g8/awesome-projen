@@ -5221,9 +5221,9 @@ p-try@^2.0.0:
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
 p6-projen-project-awesome-list@^0.1.10:
-  version "0.1.49"
-  resolved "https://registry.yarnpkg.com/p6-projen-project-awesome-list/-/p6-projen-project-awesome-list-0.1.49.tgz#9c760efa6d82f36ba1a7af0ef3b9f19d0610564e"
-  integrity sha512-XrId8dixpLUPBqlg9ENESE/Pm8c2Bx9NLulT5Bmo3GDHMR1ur9WnVy1aP44bc69g1PZ+o1YuUiCTOcquhxEFUQ==
+  version "0.1.93"
+  resolved "https://registry.yarnpkg.com/p6-projen-project-awesome-list/-/p6-projen-project-awesome-list-0.1.93.tgz#85c9acd21aea936429b5903cba5a9ea52fb5b83e"
+  integrity sha512-IBxR9yo4iesGix/FNeFIbGc6nd0+uu2DSfiCGS/wz9IQ8ysI+582X0HaA72wTCRu6PPRV7oXr5P9Dx5ffLkvaw==
   dependencies:
     fs-extra "^9.1.0"
     projen "^0"
