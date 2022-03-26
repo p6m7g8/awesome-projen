@@ -6,23 +6,21 @@
     },
     {
       "name": "@types/node",
-      "version": "^10.17.0",
+      "version": "^12",
       "type": "build"
     },
     {
       "name": "@typescript-eslint/eslint-plugin",
+      "version": "^5",
       "type": "build"
     },
     {
       "name": "@typescript-eslint/parser",
+      "version": "^5",
       "type": "build"
     },
     {
       "name": "awesome-lint",
-      "type": "build"
-    },
-    {
-      "name": "eslint",
       "type": "build"
     },
     {
@@ -38,12 +36,17 @@
       "type": "build"
     },
     {
+      "name": "eslint",
+      "version": "^8",
+      "type": "build"
+    },
+    {
       "name": "jest",
       "type": "build"
     },
     {
       "name": "jest-junit",
-      "version": "^12",
+      "version": "^13",
       "type": "build"
     },
     {
@@ -67,12 +70,17 @@
       "type": "build"
     },
     {
+      "name": "npm-check-updates",
+      "version": "^12",
+      "type": "build"
+    },
+    {
       "name": "p6-projen-project-awesome-list",
+      "version": "1.0.1",
       "type": "build"
     },
     {
       "name": "projen",
-      "version": "^0.17.65",
       "type": "build"
     },
     {
