@@ -31,14 +31,14 @@ linkChecker?.addJobs({
       {
         name: 'Check Links',
         id: 'lychee',
-        uses: 'lycheeverse/lychee-action@v1.8.0',
+        uses: 'lycheeverse/lychee-action@v1.5.1',
         with: {
           args: '--verbose --max-concurrency 32 --timeout 120 --no-progress *.md',
         },
       },
       {
         name: 'Create Issue From File',
-        if: 'env.lychee.exit_code != 0',
+        if: '${{ steps.lychee.outputs.exit_code != 0 }}',
         uses: 'peter-evans/create-issue-from-file@v4',
         with: {
           'title': 'Link Checker Report',
